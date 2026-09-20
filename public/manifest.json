@@ -1,0 +1,11 @@
+{
+  "name": "GHARLIST — Smart Shopping for Every Home",
+  "short_name": "GHARLIST",
+  "description": "Family grocery shopping list application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FBF8",
+  "theme_color": "#087F45",
+  "orientation": "portrait-primary",
+  "icons": []
+}

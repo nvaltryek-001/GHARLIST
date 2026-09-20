@@ -1,0 +1,4027 @@
+[
+    {
+        "id":  "24-mantra",
+        "name":  "24 Mantra",
+        "productCount":  1
+    },
+    {
+        "id":  "24-mantra-organic",
+        "name":  "24 Mantra Organic",
+        "productCount":  15
+    },
+    {
+        "id":  "4700-bc",
+        "name":  "4700 BC",
+        "productCount":  6
+    },
+    {
+        "id":  "4700-bc-popcorn",
+        "name":  "4700 BC Popcorn",
+        "productCount":  4
+    },
+    {
+        "id":  "7-up",
+        "name":  "7 Up",
+        "productCount":  1
+    },
+    {
+        "id":  "aabad",
+        "name":  "Aabad",
+        "productCount":  3
+    },
+    {
+        "id":  "aadhaar",
+        "name":  "Aadhaar",
+        "productCount":  1
+    },
+    {
+        "id":  "aashirvaad",
+        "name":  "Aashirvaad",
+        "productCount":  6
+    },
+    {
+        "id":  "aashirvad",
+        "name":  "Aashirvad",
+        "productCount":  1
+    },
+    {
+        "id":  "absorbia",
+        "name":  "Absorbia",
+        "productCount":  1
+    },
+    {
+        "id":  "acetone",
+        "name":  "Acetone",
+        "productCount":  1
+    },
+    {
+        "id":  "act-ii",
+        "name":  "ACT II",
+        "productCount":  11
+    },
+    {
+        "id":  "adulsa",
+        "name":  "Adulsa",
+        "productCount":  1
+    },
+    {
+        "id":  "aer",
+        "name":  "Aer",
+        "productCount":  3
+    },
+    {
+        "id":  "agrawal-s-420",
+        "name":  "Agrawal\u0027s 420",
+        "productCount":  7
+    },
+    {
+        "id":  "all-out",
+        "name":  "All Out",
+        "productCount":  3
+    },
+    {
+        "id":  "all-time-plastic",
+        "name":  "All Time Plastic",
+        "productCount":  2
+    },
+    {
+        "id":  "ambi-pur",
+        "name":  "Ambi Pur",
+        "productCount":  4
+    },
+    {
+        "id":  "ambrane",
+        "name":  "Ambrane",
+        "productCount":  9
+    },
+    {
+        "id":  "american-garden",
+        "name":  "American Garden",
+        "productCount":  4
+    },
+    {
+        "id":  "amrut",
+        "name":  "Amrut",
+        "productCount":  1
+    },
+    {
+        "id":  "amrut-malam",
+        "name":  "Amrut Malam",
+        "productCount":  1
+    },
+    {
+        "id":  "amrutanjan",
+        "name":  "Amrutanjan",
+        "productCount":  7
+    },
+    {
+        "id":  "amul",
+        "name":  "Amul",
+        "productCount":  79
+    },
+    {
+        "id":  "anjali",
+        "name":  "Anjali",
+        "productCount":  19
+    },
+    {
+        "id":  "annapurna",
+        "name":  "Annapurna",
+        "productCount":  1
+    },
+    {
+        "id":  "anupam",
+        "name":  "Anupam",
+        "productCount":  1
+    },
+    {
+        "id":  "apis",
+        "name":  "Apis",
+        "productCount":  3
+    },
+    {
+        "id":  "apple",
+        "name":  "Apple",
+        "productCount":  1
+    },
+    {
+        "id":  "appu",
+        "name":  "Appu",
+        "productCount":  1
+    },
+    {
+        "id":  "apsara",
+        "name":  "Apsara",
+        "productCount":  2
+    },
+    {
+        "id":  "arbor-treat",
+        "name":  "Arbor Treat",
+        "productCount":  2
+    },
+    {
+        "id":  "ariel",
+        "name":  "Ariel",
+        "productCount":  16
+    },
+    {
+        "id":  "arihant",
+        "name":  "Arihant",
+        "productCount":  1
+    },
+    {
+        "id":  "aristocrat",
+        "name":  "Aristocrat",
+        "productCount":  1
+    },
+    {
+        "id":  "artis",
+        "name":  "Artis",
+        "productCount":  3
+    },
+    {
+        "id":  "asahi-kasei",
+        "name":  "Asahi Kasei",
+        "productCount":  6
+    },
+    {
+        "id":  "ashwin",
+        "name":  "Ashwin",
+        "productCount":  1
+    },
+    {
+        "id":  "athom-trendz",
+        "name":  "Athom Trendz",
+        "productCount":  3
+    },
+    {
+        "id":  "axe",
+        "name":  "Axe",
+        "productCount":  3
+    },
+    {
+        "id":  "axe-brand",
+        "name":  "Axe Brand",
+        "productCount":  1
+    },
+    {
+        "id":  "ayush",
+        "name":  "Ayush",
+        "productCount":  1
+    },
+    {
+        "id":  "b-natural",
+        "name":  "B Natural",
+        "productCount":  3
+    },
+    {
+        "id":  "badshah-masala",
+        "name":  "Badshah Masala",
+        "productCount":  12
+    },
+    {
+        "id":  "bagrry-s",
+        "name":  "Bagrry\u0027s",
+        "productCount":  3
+    },
+    {
+        "id":  "baidyanath",
+        "name":  "Baidyanath",
+        "productCount":  11
+    },
+    {
+        "id":  "bajaj",
+        "name":  "Bajaj",
+        "productCount":  17
+    },
+    {
+        "id":  "balaji",
+        "name":  "Balaji",
+        "productCount":  5
+    },
+    {
+        "id":  "barilla",
+        "name":  "Barilla",
+        "productCount":  5
+    },
+    {
+        "id":  "bathla",
+        "name":  "Bathla",
+        "productCount":  2
+    },
+    {
+        "id":  "bb",
+        "name":  "BB",
+        "productCount":  1
+    },
+    {
+        "id":  "bean-to-bark",
+        "name":  "Bean to Bark",
+        "productCount":  2
+    },
+    {
+        "id":  "beardo",
+        "name":  "Beardo",
+        "productCount":  6
+    },
+    {
+        "id":  "bedekar",
+        "name":  "Bedekar",
+        "productCount":  15
+    },
+    {
+        "id":  "beezy",
+        "name":  "Beezy",
+        "productCount":  3
+    },
+    {
+        "id":  "bellie",
+        "name":  "Bellie",
+        "productCount":  3
+    },
+    {
+        "id":  "bertolli",
+        "name":  "Bertolli",
+        "productCount":  1
+    },
+    {
+        "id":  "betty-crocker",
+        "name":  "Betty Crocker",
+        "productCount":  3
+    },
+    {
+        "id":  "bhagirathi",
+        "name":  "Bhagirathi",
+        "productCount":  12
+    },
+    {
+        "id":  "bhuira",
+        "name":  "Bhuira",
+        "productCount":  4
+    },
+    {
+        "id":  "bikaji",
+        "name":  "Bikaji",
+        "productCount":  5
+    },
+    {
+        "id":  "bikaneri",
+        "name":  "Bikaneri",
+        "productCount":  1
+    },
+    {
+        "id":  "bin-gmo",
+        "name":  "Bin Gmo",
+        "productCount":  1
+    },
+    {
+        "id":  "bingo",
+        "name":  "Bingo",
+        "productCount":  2
+    },
+    {
+        "id":  "bio-oil",
+        "name":  "Bio-Oil",
+        "productCount":  1
+    },
+    {
+        "id":  "biotique",
+        "name":  "Biotique",
+        "productCount":  1
+    },
+    {
+        "id":  "bisky-bites",
+        "name":  "Bisky Bites",
+        "productCount":  3
+    },
+    {
+        "id":  "bisleri",
+        "name":  "Bisleri",
+        "productCount":  6
+    },
+    {
+        "id":  "blue-bird",
+        "name":  "Blue Bird",
+        "productCount":  12
+    },
+    {
+        "id":  "boat",
+        "name":  "Boat",
+        "productCount":  7
+    },
+    {
+        "id":  "boost",
+        "name":  "Boost",
+        "productCount":  1
+    },
+    {
+        "id":  "borges",
+        "name":  "Borges",
+        "productCount":  14
+    },
+    {
+        "id":  "boro",
+        "name":  "Boro",
+        "productCount":  2
+    },
+    {
+        "id":  "boro-plus",
+        "name":  "Boro Plus",
+        "productCount":  1
+    },
+    {
+        "id":  "boroline",
+        "name":  "Boroline",
+        "productCount":  3
+    },
+    {
+        "id":  "boroplus",
+        "name":  "Boroplus",
+        "productCount":  1
+    },
+    {
+        "id":  "borosil",
+        "name":  "Borosil",
+        "productCount":  3
+    },
+    {
+        "id":  "boss",
+        "name":  "Boss",
+        "productCount":  1
+    },
+    {
+        "id":  "bounty",
+        "name":  "Bounty",
+        "productCount":  2
+    },
+    {
+        "id":  "bretty-croker",
+        "name":  "Bretty Croker",
+        "productCount":  1
+    },
+    {
+        "id":  "britannia",
+        "name":  "Britannia",
+        "productCount":  42
+    },
+    {
+        "id":  "brooke-bond",
+        "name":  "Brooke Bond",
+        "productCount":  7
+    },
+    {
+        "id":  "brown",
+        "name":  "Brown",
+        "productCount":  1
+    },
+    {
+        "id":  "brown-polson",
+        "name":  "Brown \u0026 Polson",
+        "productCount":  1
+    },
+    {
+        "id":  "bru",
+        "name":  "Bru",
+        "productCount":  2
+    },
+    {
+        "id":  "brut",
+        "name":  "Brut",
+        "productCount":  4
+    },
+    {
+        "id":  "b-tex",
+        "name":  "B-Tex",
+        "productCount":  1
+    },
+    {
+        "id":  "budweiser",
+        "name":  "Budweiser",
+        "productCount":  1
+    },
+    {
+        "id":  "budweiser-beats",
+        "name":  "Budweiser Beats",
+        "productCount":  1
+    },
+    {
+        "id":  "butterfly",
+        "name":  "Butterfly",
+        "productCount":  3
+    },
+    {
+        "id":  "cadbury",
+        "name":  "Cadbury",
+        "productCount":  21
+    },
+    {
+        "id":  "cadbury-5-star",
+        "name":  "Cadbury 5 Star",
+        "productCount":  2
+    },
+    {
+        "id":  "cadbury-bournvita",
+        "name":  "Cadbury Bournvita",
+        "productCount":  6
+    },
+    {
+        "id":  "cadbury-bournvita-biscuits",
+        "name":  "Cadbury Bournvita Biscuits",
+        "productCount":  2
+    },
+    {
+        "id":  "cadbury-celebrations",
+        "name":  "Cadbury Celebrations",
+        "productCount":  3
+    },
+    {
+        "id":  "cadbury-choclairs",
+        "name":  "Cadbury Choclairs",
+        "productCount":  1
+    },
+    {
+        "id":  "cadbury-cocoa-beverages",
+        "name":  "Cadbury Cocoa Beverages",
+        "productCount":  1
+    },
+    {
+        "id":  "cadbury-dairy-milk",
+        "name":  "Cadbury Dairy Milk",
+        "productCount":  5
+    },
+    {
+        "id":  "cadbury-dairy-milk-silk",
+        "name":  "Cadbury Dairy Milk Silk",
+        "productCount":  7
+    },
+    {
+        "id":  "cadbury-oreo",
+        "name":  "Cadbury Oreo",
+        "productCount":  3
+    },
+    {
+        "id":  "camay",
+        "name":  "Camay",
+        "productCount":  1
+    },
+    {
+        "id":  "camel",
+        "name":  "Camel",
+        "productCount":  4
+    },
+    {
+        "id":  "camlin",
+        "name":  "Camlin",
+        "productCount":  7
+    },
+    {
+        "id":  "campure",
+        "name":  "Campure",
+        "productCount":  1
+    },
+    {
+        "id":  "candid",
+        "name":  "Candid",
+        "productCount":  1
+    },
+    {
+        "id":  "candor",
+        "name":  "Candor",
+        "productCount":  1
+    },
+    {
+        "id":  "candyman",
+        "name":  "Candyman",
+        "productCount":  1
+    },
+    {
+        "id":  "carefree",
+        "name":  "Carefree",
+        "productCount":  1
+    },
+    {
+        "id":  "carnival",
+        "name":  "Carnival",
+        "productCount":  11
+    },
+    {
+        "id":  "catch",
+        "name":  "Catch",
+        "productCount":  3
+    },
+    {
+        "id":  "cavin-s",
+        "name":  "Cavin\u0027s",
+        "productCount":  3
+    },
+    {
+        "id":  "cello",
+        "name":  "Cello",
+        "productCount":  10
+    },
+    {
+        "id":  "chamak-dhamak",
+        "name":  "Chamak Dhamak",
+        "productCount":  1
+    },
+    {
+        "id":  "chandan",
+        "name":  "Chandan",
+        "productCount":  15
+    },
+    {
+        "id":  "chandan-sparsh",
+        "name":  "Chandan Sparsh",
+        "productCount":  1
+    },
+    {
+        "id":  "chandrika",
+        "name":  "Chandrika",
+        "productCount":  1
+    },
+    {
+        "id":  "charliee",
+        "name":  "Charliee",
+        "productCount":  12
+    },
+    {
+        "id":  "cherry",
+        "name":  "Cherry",
+        "productCount":  3
+    },
+    {
+        "id":  "cherry-blossom",
+        "name":  "Cherry Blossom",
+        "productCount":  1
+    },
+    {
+        "id":  "chetran-s",
+        "name":  "Chetran\u0027s",
+        "productCount":  1
+    },
+    {
+        "id":  "chheda-s",
+        "name":  "Chheda\u0027s",
+        "productCount":  13
+    },
+    {
+        "id":  "ching-s",
+        "name":  "Ching\u0027s",
+        "productCount":  21
+    },
+    {
+        "id":  "chitale",
+        "name":  "Chitale",
+        "productCount":  12
+    },
+    {
+        "id":  "chitale-bandhu",
+        "name":  "Chitale Bandhu",
+        "productCount":  2
+    },
+    {
+        "id":  "chitale-dairy",
+        "name":  "Chitale Dairy",
+        "productCount":  4
+    },
+    {
+        "id":  "chitale-foods",
+        "name":  "Chitale Foods",
+        "productCount":  4
+    },
+    {
+        "id":  "chocoliebe",
+        "name":  "Chocoliebe",
+        "productCount":  1
+    },
+    {
+        "id":  "christopher",
+        "name":  "Christopher",
+        "productCount":  2
+    },
+    {
+        "id":  "christopher-cocoa",
+        "name":  "Christopher Cocoa",
+        "productCount":  5
+    },
+    {
+        "id":  "cif",
+        "name":  "CIF",
+        "productCount":  6
+    },
+    {
+        "id":  "cinthol",
+        "name":  "Cinthol",
+        "productCount":  6
+    },
+    {
+        "id":  "cipla",
+        "name":  "Cipla",
+        "productCount":  2
+    },
+    {
+        "id":  "clean-clear",
+        "name":  "Clean \u0026 Clear",
+        "productCount":  5
+    },
+    {
+        "id":  "clean-plus",
+        "name":  "Clean Plus",
+        "productCount":  1
+    },
+    {
+        "id":  "cleanplus",
+        "name":  "Cleanplus",
+        "productCount":  3
+    },
+    {
+        "id":  "clinic-plus",
+        "name":  "Clinic Plus",
+        "productCount":  6
+    },
+    {
+        "id":  "clio",
+        "name":  "Clio",
+        "productCount":  16
+    },
+    {
+        "id":  "closeup",
+        "name":  "Closeup",
+        "productCount":  1
+    },
+    {
+        "id":  "coca-cola",
+        "name":  "Coca-Cola",
+        "productCount":  4
+    },
+    {
+        "id":  "coconourish",
+        "name":  "Coconourish",
+        "productCount":  3
+    },
+    {
+        "id":  "colgate",
+        "name":  "Colgate",
+        "productCount":  35
+    },
+    {
+        "id":  "colgate-active",
+        "name":  "Colgate Active",
+        "productCount":  1
+    },
+    {
+        "id":  "colin",
+        "name":  "Colin",
+        "productCount":  2
+    },
+    {
+        "id":  "colombian",
+        "name":  "Colombian",
+        "productCount":  6
+    },
+    {
+        "id":  "colombian-brew-coffee",
+        "name":  "Colombian Brew Coffee",
+        "productCount":  4
+    },
+    {
+        "id":  "comfort",
+        "name":  "Comfort",
+        "productCount":  10
+    },
+    {
+        "id":  "command",
+        "name":  "Command",
+        "productCount":  4
+    },
+    {
+        "id":  "complan",
+        "name":  "Complan",
+        "productCount":  3
+    },
+    {
+        "id":  "concord",
+        "name":  "Concord",
+        "productCount":  1
+    },
+    {
+        "id":  "continental",
+        "name":  "Continental",
+        "productCount":  3
+    },
+    {
+        "id":  "cookie-man",
+        "name":  "Cookie Man",
+        "productCount":  6
+    },
+    {
+        "id":  "coolberg",
+        "name":  "Coolberg",
+        "productCount":  6
+    },
+    {
+        "id":  "cornitos",
+        "name":  "Cornitos",
+        "productCount":  3
+    },
+    {
+        "id":  "cortina",
+        "name":  "Cortina",
+        "productCount":  27
+    },
+    {
+        "id":  "cothas",
+        "name":  "Cothas",
+        "productCount":  1
+    },
+    {
+        "id":  "crave-eatables",
+        "name":  "Crave Eatables",
+        "productCount":  4
+    },
+    {
+        "id":  "cravova",
+        "name":  "Cravova",
+        "productCount":  5
+    },
+    {
+        "id":  "crompton",
+        "name":  "Crompton",
+        "productCount":  1
+    },
+    {
+        "id":  "crompton-greaves",
+        "name":  "Crompton Greaves",
+        "productCount":  11
+    },
+    {
+        "id":  "crown",
+        "name":  "Crown",
+        "productCount":  2
+    },
+    {
+        "id":  "crystal",
+        "name":  "Crystal",
+        "productCount":  5
+    },
+    {
+        "id":  "cycle",
+        "name":  "Cycle",
+        "productCount":  4
+    },
+    {
+        "id":  "cycle-3-in-1",
+        "name":  "Cycle 3 In 1",
+        "productCount":  3
+    },
+    {
+        "id":  "cycle-navin",
+        "name":  "Cycle Navin",
+        "productCount":  1
+    },
+    {
+        "id":  "cycle-popular",
+        "name":  "Cycle Popular",
+        "productCount":  1
+    },
+    {
+        "id":  "cycle-woods",
+        "name":  "Cycle Woods",
+        "productCount":  1
+    },
+    {
+        "id":  "d-homes",
+        "name":  "D Homes",
+        "productCount":  1
+    },
+    {
+        "id":  "daawat",
+        "name":  "Daawat",
+        "productCount":  18
+    },
+    {
+        "id":  "dabur",
+        "name":  "Dabur",
+        "productCount":  21
+    },
+    {
+        "id":  "dabur-hommade",
+        "name":  "Dabur Hommade",
+        "productCount":  3
+    },
+    {
+        "id":  "dalda",
+        "name":  "Dalda",
+        "productCount":  4
+    },
+    {
+        "id":  "dana",
+        "name":  "Dana",
+        "productCount":  2
+    },
+    {
+        "id":  "davidoff",
+        "name":  "Davidoff",
+        "productCount":  4
+    },
+    {
+        "id":  "del-monte",
+        "name":  "Del Monte",
+        "productCount":  3
+    },
+    {
+        "id":  "delicious",
+        "name":  "Delicious",
+        "productCount":  1
+    },
+    {
+        "id":  "dettol",
+        "name":  "Dettol",
+        "productCount":  26
+    },
+    {
+        "id":  "devaaya",
+        "name":  "Devaaya",
+        "productCount":  2
+    },
+    {
+        "id":  "dhara",
+        "name":  "Dhara",
+        "productCount":  10
+    },
+    {
+        "id":  "dharasana",
+        "name":  "Dharasana",
+        "productCount":  2
+    },
+    {
+        "id":  "dhomes",
+        "name":  "DHomes",
+        "productCount":  8
+    },
+    {
+        "id":  "dhootapapeshwar",
+        "name":  "Dhootapapeshwar",
+        "productCount":  4
+    },
+    {
+        "id":  "didier-frank",
+        "name":  "Didier \u0026 Frank",
+        "productCount":  9
+    },
+    {
+        "id":  "dinesmart",
+        "name":  "Dinesmart",
+        "productCount":  1
+    },
+    {
+        "id":  "divya",
+        "name":  "Divya",
+        "productCount":  1
+    },
+    {
+        "id":  "d-lecta",
+        "name":  "D\u0027lecta",
+        "productCount":  14
+    },
+    {
+        "id":  "dls",
+        "name":  "DLS",
+        "productCount":  1
+    },
+    {
+        "id":  "dmart-healthy-choice",
+        "name":  "DMart Healthy Choice",
+        "productCount":  3
+    },
+    {
+        "id":  "domex",
+        "name":  "Domex",
+        "productCount":  3
+    },
+    {
+        "id":  "doms",
+        "name":  "Doms",
+        "productCount":  6
+    },
+    {
+        "id":  "doritos",
+        "name":  "Doritos",
+        "productCount":  4
+    },
+    {
+        "id":  "dove",
+        "name":  "Dove",
+        "productCount":  23
+    },
+    {
+        "id":  "dr-copper",
+        "name":  "Dr. Copper",
+        "productCount":  1
+    },
+    {
+        "id":  "dr-ortho",
+        "name":  "Dr. Ortho",
+        "productCount":  2
+    },
+    {
+        "id":  "dr-waterr",
+        "name":  "Dr. WaterR",
+        "productCount":  2
+    },
+    {
+        "id":  "dr-waterr",
+        "name":  "Dr.WaterR",
+        "productCount":  1
+    },
+    {
+        "id":  "drenfix",
+        "name":  "Drenfix",
+        "productCount":  1
+    },
+    {
+        "id":  "dukes",
+        "name":  "Dukes",
+        "productCount":  6
+    },
+    {
+        "id":  "duke-s",
+        "name":  "Duke\u0027s",
+        "productCount":  1
+    },
+    {
+        "id":  "duracell",
+        "name":  "Duracell",
+        "productCount":  9
+    },
+    {
+        "id":  "durex",
+        "name":  "Durex",
+        "productCount":  15
+    },
+    {
+        "id":  "dutch-harbor",
+        "name":  "Dutch Harbor",
+        "productCount":  5
+    },
+    {
+        "id":  "dynamix",
+        "name":  "Dynamix",
+        "productCount":  5
+    },
+    {
+        "id":  "earth-mate",
+        "name":  "Earth Mate",
+        "productCount":  2
+    },
+    {
+        "id":  "earthmate",
+        "name":  "Earthmate",
+        "productCount":  2
+    },
+    {
+        "id":  "elegant-weavers",
+        "name":  "Elegant Weavers",
+        "productCount":  14
+    },
+    {
+        "id":  "elle-18",
+        "name":  "Elle 18",
+        "productCount":  21
+    },
+    {
+        "id":  "emami",
+        "name":  "Emami",
+        "productCount":  5
+    },
+    {
+        "id":  "emperor",
+        "name":  "Emperor",
+        "productCount":  3
+    },
+    {
+        "id":  "engage",
+        "name":  "Engage",
+        "productCount":  2
+    },
+    {
+        "id":  "eno",
+        "name":  "Eno",
+        "productCount":  4
+    },
+    {
+        "id":  "ensure",
+        "name":  "Ensure",
+        "productCount":  1
+    },
+    {
+        "id":  "epigamia",
+        "name":  "Epigamia",
+        "productCount":  16
+    },
+    {
+        "id":  "et-mi",
+        "name":  "Et-mi",
+        "productCount":  6
+    },
+    {
+        "id":  "eucalyptus",
+        "name":  "Eucalyptus",
+        "productCount":  1
+    },
+    {
+        "id":  "eveready",
+        "name":  "Eveready",
+        "productCount":  4
+    },
+    {
+        "id":  "everest",
+        "name":  "Everest",
+        "productCount":  32
+    },
+    {
+        "id":  "everfresh",
+        "name":  "Everfresh",
+        "productCount":  2
+    },
+    {
+        "id":  "everyuth",
+        "name":  "Everyuth",
+        "productCount":  4
+    },
+    {
+        "id":  "exo",
+        "name":  "Exo",
+        "productCount":  2
+    },
+    {
+        "id":  "ezee",
+        "name":  "Ezee",
+        "productCount":  1
+    },
+    {
+        "id":  "faber-castell",
+        "name":  "Faber-Castell",
+        "productCount":  2
+    },
+    {
+        "id":  "faces-canada",
+        "name":  "Faces Canada",
+        "productCount":  99
+    },
+    {
+        "id":  "falcon",
+        "name":  "Falcon",
+        "productCount":  4
+    },
+    {
+        "id":  "fanta",
+        "name":  "Fanta",
+        "productCount":  2
+    },
+    {
+        "id":  "feather-soft",
+        "name":  "Feather Soft",
+        "productCount":  23
+    },
+    {
+        "id":  "ferrero",
+        "name":  "Ferrero",
+        "productCount":  2
+    },
+    {
+        "id":  "ferrero-rocher",
+        "name":  "Ferrero Rocher",
+        "productCount":  3
+    },
+    {
+        "id":  "fiama",
+        "name":  "Fiama",
+        "productCount":  2
+    },
+    {
+        "id":  "figaro",
+        "name":  "Figaro",
+        "productCount":  6
+    },
+    {
+        "id":  "finish",
+        "name":  "Finish",
+        "productCount":  1
+    },
+    {
+        "id":  "fishermans",
+        "name":  "Fishermans",
+        "productCount":  1
+    },
+    {
+        "id":  "flair",
+        "name":  "Flair",
+        "productCount":  2
+    },
+    {
+        "id":  "flying-bird",
+        "name":  "Flying Bird",
+        "productCount":  2
+    },
+    {
+        "id":  "fogg",
+        "name":  "Fogg",
+        "productCount":  10
+    },
+    {
+        "id":  "force-10",
+        "name":  "Force 10",
+        "productCount":  4
+    },
+    {
+        "id":  "fortune",
+        "name":  "Fortune",
+        "productCount":  21
+    },
+    {
+        "id":  "fresh-ones",
+        "name":  "Fresh Ones",
+        "productCount":  1
+    },
+    {
+        "id":  "freshezza",
+        "name":  "Freshezza",
+        "productCount":  2
+    },
+    {
+        "id":  "friends",
+        "name":  "Friends",
+        "productCount":  4
+    },
+    {
+        "id":  "frooti",
+        "name":  "Frooti",
+        "productCount":  1
+    },
+    {
+        "id":  "frumato",
+        "name":  "Frumato",
+        "productCount":  1
+    },
+    {
+        "id":  "funfoods",
+        "name":  "Funfoods",
+        "productCount":  14
+    },
+    {
+        "id":  "gaia",
+        "name":  "Gaia",
+        "productCount":  3
+    },
+    {
+        "id":  "gala",
+        "name":  "Gala",
+        "productCount":  39
+    },
+    {
+        "id":  "galaxy",
+        "name":  "Galaxy",
+        "productCount":  5
+    },
+    {
+        "id":  "ganesh",
+        "name":  "Ganesh",
+        "productCount":  6
+    },
+    {
+        "id":  "ganesh-papad",
+        "name":  "Ganesh Papad",
+        "productCount":  5
+    },
+    {
+        "id":  "garden",
+        "name":  "Garden",
+        "productCount":  9
+    },
+    {
+        "id":  "garnier",
+        "name":  "Garnier",
+        "productCount":  29
+    },
+    {
+        "id":  "gas-o-fast",
+        "name":  "Gas-O-Fast",
+        "productCount":  1
+    },
+    {
+        "id":  "geep",
+        "name":  "Geep",
+        "productCount":  3
+    },
+    {
+        "id":  "gemini",
+        "name":  "Gemini",
+        "productCount":  6
+    },
+    {
+        "id":  "genteel",
+        "name":  "Genteel",
+        "productCount":  1
+    },
+    {
+        "id":  "ghadi",
+        "name":  "Ghadi",
+        "productCount":  2
+    },
+    {
+        "id":  "ghasitaram-s",
+        "name":  "Ghasitaram\u0027s",
+        "productCount":  2
+    },
+    {
+        "id":  "giffy",
+        "name":  "Giffy",
+        "productCount":  2
+    },
+    {
+        "id":  "gillette",
+        "name":  "Gillette",
+        "productCount":  44
+    },
+    {
+        "id":  "girnar",
+        "name":  "Girnar",
+        "productCount":  8
+    },
+    {
+        "id":  "gits",
+        "name":  "Gits",
+        "productCount":  6
+    },
+    {
+        "id":  "glito",
+        "name":  "Glito",
+        "productCount":  8
+    },
+    {
+        "id":  "glow-lovely",
+        "name":  "Glow \u0026 Lovely",
+        "productCount":  5
+    },
+    {
+        "id":  "glucon-d",
+        "name":  "Glucon-D",
+        "productCount":  6
+    },
+    {
+        "id":  "glycerin",
+        "name":  "Glycerin",
+        "productCount":  1
+    },
+    {
+        "id":  "gm",
+        "name":  "GM",
+        "productCount":  4
+    },
+    {
+        "id":  "go",
+        "name":  "Go",
+        "productCount":  1
+    },
+    {
+        "id":  "godrej",
+        "name":  "Godrej",
+        "productCount":  35
+    },
+    {
+        "id":  "godrej-aer",
+        "name":  "Godrej Aer",
+        "productCount":  2
+    },
+    {
+        "id":  "godrej-expert",
+        "name":  "Godrej Expert",
+        "productCount":  4
+    },
+    {
+        "id":  "gokul",
+        "name":  "Gokul",
+        "productCount":  9
+    },
+    {
+        "id":  "goldiee",
+        "name":  "Goldiee",
+        "productCount":  10
+    },
+    {
+        "id":  "good-day-harmony",
+        "name":  "Good Day Harmony",
+        "productCount":  1
+    },
+    {
+        "id":  "good-knight",
+        "name":  "Good Knight",
+        "productCount":  11
+    },
+    {
+        "id":  "good-year",
+        "name":  "Good Year",
+        "productCount":  1
+    },
+    {
+        "id":  "gooddot",
+        "name":  "GoodDot",
+        "productCount":  5
+    },
+    {
+        "id":  "goodknight",
+        "name":  "Goodknight",
+        "productCount":  1
+    },
+    {
+        "id":  "goodricke",
+        "name":  "Goodricke",
+        "productCount":  1
+    },
+    {
+        "id":  "goodyear",
+        "name":  "Goodyear",
+        "productCount":  4
+    },
+    {
+        "id":  "govind",
+        "name":  "Govind",
+        "productCount":  1
+    },
+    {
+        "id":  "gowardhan",
+        "name":  "Gowardhan",
+        "productCount":  10
+    },
+    {
+        "id":  "gowardhan-go",
+        "name":  "Gowardhan Go",
+        "productCount":  3
+    },
+    {
+        "id":  "grace",
+        "name":  "Grace",
+        "productCount":  9
+    },
+    {
+        "id":  "gramiyaa",
+        "name":  "Gramiyaa",
+        "productCount":  3
+    },
+    {
+        "id":  "green-leaf",
+        "name":  "Green Leaf",
+        "productCount":  2
+    },
+    {
+        "id":  "guinea",
+        "name":  "Guinea",
+        "productCount":  2
+    },
+    {
+        "id":  "gula-gula",
+        "name":  "Gula Gula",
+        "productCount":  3
+    },
+    {
+        "id":  "gulab",
+        "name":  "Gulab",
+        "productCount":  1
+    },
+    {
+        "id":  "guruji",
+        "name":  "Guruji",
+        "productCount":  2
+    },
+    {
+        "id":  "hair-care",
+        "name":  "Hair \u0026 Care",
+        "productCount":  1
+    },
+    {
+        "id":  "haldiram-s",
+        "name":  "Haldiram\u0027s",
+        "productCount":  25
+    },
+    {
+        "id":  "hamam",
+        "name":  "Hamam",
+        "productCount":  1
+    },
+    {
+        "id":  "hamdard",
+        "name":  "Hamdard",
+        "productCount":  2
+    },
+    {
+        "id":  "hand-aid",
+        "name":  "Hand Aid",
+        "productCount":  12
+    },
+    {
+        "id":  "hansaplast",
+        "name":  "Hansaplast",
+        "productCount":  7
+    },
+    {
+        "id":  "happy-to-hang",
+        "name":  "Happy to Hang",
+        "productCount":  2
+    },
+    {
+        "id":  "haribol",
+        "name":  "Haribol",
+        "productCount":  1
+    },
+    {
+        "id":  "harnik",
+        "name":  "Harnik",
+        "productCount":  1
+    },
+    {
+        "id":  "harpic",
+        "name":  "Harpic",
+        "productCount":  14
+    },
+    {
+        "id":  "havells",
+        "name":  "Havells",
+        "productCount":  2
+    },
+    {
+        "id":  "hawaban-harde",
+        "name":  "Hawaban Harde",
+        "productCount":  1
+    },
+    {
+        "id":  "hawkins",
+        "name":  "Hawkins",
+        "productCount":  7
+    },
+    {
+        "id":  "head-shoulders",
+        "name":  "Head \u0026 Shoulders",
+        "productCount":  9
+    },
+    {
+        "id":  "heidi",
+        "name":  "Heidi",
+        "productCount":  6
+    },
+    {
+        "id":  "hellmanns",
+        "name":  "Hellmanns",
+        "productCount":  2
+    },
+    {
+        "id":  "hem",
+        "name":  "Hem",
+        "productCount":  8
+    },
+    {
+        "id":  "hem-pama",
+        "name":  "Hem Pama",
+        "productCount":  2
+    },
+    {
+        "id":  "henko",
+        "name":  "Henko",
+        "productCount":  3
+    },
+    {
+        "id":  "heritage",
+        "name":  "Heritage",
+        "productCount":  1
+    },
+    {
+        "id":  "hersheys",
+        "name":  "Hersheys",
+        "productCount":  4
+    },
+    {
+        "id":  "hershey-s",
+        "name":  "Hershey\u0027s",
+        "productCount":  14
+    },
+    {
+        "id":  "high-spirit",
+        "name":  "High Spirit",
+        "productCount":  2
+    },
+    {
+        "id":  "himalaya",
+        "name":  "Himalaya",
+        "productCount":  28
+    },
+    {
+        "id":  "himani",
+        "name":  "Himani",
+        "productCount":  1
+    },
+    {
+        "id":  "hindalco-freshwrapp",
+        "name":  "Hindalco Freshwrapp",
+        "productCount":  2
+    },
+    {
+        "id":  "hit",
+        "name":  "Hit",
+        "productCount":  8
+    },
+    {
+        "id":  "home-chef",
+        "name":  "Home Chef",
+        "productCount":  4
+    },
+    {
+        "id":  "home-made",
+        "name":  "Home Made",
+        "productCount":  5
+    },
+    {
+        "id":  "homechef",
+        "name":  "Homechef",
+        "productCount":  1
+    },
+    {
+        "id":  "homelites",
+        "name":  "Homelites",
+        "productCount":  1
+    },
+    {
+        "id":  "honitus",
+        "name":  "Honitus",
+        "productCount":  1
+    },
+    {
+        "id":  "horlicks",
+        "name":  "Horlicks",
+        "productCount":  12
+    },
+    {
+        "id":  "house-coffee",
+        "name":  "House Coffee",
+        "productCount":  2
+    },
+    {
+        "id":  "hudson",
+        "name":  "Hudson",
+        "productCount":  1
+    },
+    {
+        "id":  "huggies",
+        "name":  "Huggies",
+        "productCount":  9
+    },
+    {
+        "id":  "i-d",
+        "name":  "I \u0026 D",
+        "productCount":  2
+    },
+    {
+        "id":  "id",
+        "name":  "Id",
+        "productCount":  8
+    },
+    {
+        "id":  "idhayam",
+        "name":  "Idhayam",
+        "productCount":  2
+    },
+    {
+        "id":  "in-shape",
+        "name":  "In Shape",
+        "productCount":  6
+    },
+    {
+        "id":  "inchi",
+        "name":  "Inchi",
+        "productCount":  4
+    },
+    {
+        "id":  "india-gate",
+        "name":  "India Gate",
+        "productCount":  16
+    },
+    {
+        "id":  "indica",
+        "name":  "Indica",
+        "productCount":  1
+    },
+    {
+        "id":  "indulekha",
+        "name":  "Indulekha",
+        "productCount":  3
+    },
+    {
+        "id":  "insight",
+        "name":  "Insight",
+        "productCount":  82
+    },
+    {
+        "id":  "iodex",
+        "name":  "Iodex",
+        "productCount":  2
+    },
+    {
+        "id":  "isabgol",
+        "name":  "Isabgol",
+        "productCount":  1
+    },
+    {
+        "id":  "itc",
+        "name":  "ITC",
+        "productCount":  7
+    },
+    {
+        "id":  "jabsons",
+        "name":  "Jabsons",
+        "productCount":  10
+    },
+    {
+        "id":  "jackson",
+        "name":  "Jackson",
+        "productCount":  3
+    },
+    {
+        "id":  "jade",
+        "name":  "Jade",
+        "productCount":  1
+    },
+    {
+        "id":  "jain",
+        "name":  "Jain",
+        "productCount":  6
+    },
+    {
+        "id":  "jaine",
+        "name":  "Jaine",
+        "productCount":  3
+    },
+    {
+        "id":  "jalani",
+        "name":  "Jalani",
+        "productCount":  1
+    },
+    {
+        "id":  "jalaram",
+        "name":  "Jalaram",
+        "productCount":  1
+    },
+    {
+        "id":  "jalaram-brand",
+        "name":  "Jalaram Brand",
+        "productCount":  7
+    },
+    {
+        "id":  "japa",
+        "name":  "Japa",
+        "productCount":  3
+    },
+    {
+        "id":  "jayshree",
+        "name":  "Jayshree",
+        "productCount":  1
+    },
+    {
+        "id":  "jelly",
+        "name":  "Jelly",
+        "productCount":  3
+    },
+    {
+        "id":  "jelly-mazza",
+        "name":  "Jelly Mazza",
+        "productCount":  1
+    },
+    {
+        "id":  "jimmy-s-cocktail",
+        "name":  "Jimmy\u0027s Cocktail",
+        "productCount":  6
+    },
+    {
+        "id":  "jivadaya",
+        "name":  "Jivadaya",
+        "productCount":  1
+    },
+    {
+        "id":  "jo",
+        "name":  "Jo",
+        "productCount":  3
+    },
+    {
+        "id":  "john",
+        "name":  "John",
+        "productCount":  2
+    },
+    {
+        "id":  "johnson-s",
+        "name":  "Johnson\u0027s",
+        "productCount":  7
+    },
+    {
+        "id":  "jolly",
+        "name":  "Jolly",
+        "productCount":  1
+    },
+    {
+        "id":  "joy",
+        "name":  "Joy",
+        "productCount":  7
+    },
+    {
+        "id":  "joyo",
+        "name":  "Joyo",
+        "productCount":  17
+    },
+    {
+        "id":  "joyo-plastics",
+        "name":  "Joyo Plastics",
+        "productCount":  21
+    },
+    {
+        "id":  "kailas-jeevan",
+        "name":  "Kailas Jeevan",
+        "productCount":  3
+    },
+    {
+        "id":  "kalbavi",
+        "name":  "Kalbavi",
+        "productCount":  1
+    },
+    {
+        "id":  "kalvert",
+        "name":  "Kalvert",
+        "productCount":  2
+    },
+    {
+        "id":  "kamasutra",
+        "name":  "Kamasutra",
+        "productCount":  15
+    },
+    {
+        "id":  "kanji-manji-kothari",
+        "name":  "Kanji Manji Kothari",
+        "productCount":  8
+    },
+    {
+        "id":  "kapol",
+        "name":  "Kapol",
+        "productCount":  5
+    },
+    {
+        "id":  "karachi-s",
+        "name":  "Karachi\u0027s",
+        "productCount":  2
+    },
+    {
+        "id":  "kaveri",
+        "name":  "Kaveri",
+        "productCount":  5
+    },
+    {
+        "id":  "kayam-churna",
+        "name":  "Kayam Churna",
+        "productCount":  1
+    },
+    {
+        "id":  "kellogg-s",
+        "name":  "Kellogg\u0027s",
+        "productCount":  15
+    },
+    {
+        "id":  "kesh-king",
+        "name":  "Kesh King",
+        "productCount":  1
+    },
+    {
+        "id":  "keshar",
+        "name":  "Keshar",
+        "productCount":  1
+    },
+    {
+        "id":  "keya",
+        "name":  "Keya",
+        "productCount":  4
+    },
+    {
+        "id":  "keyur-kitchenware",
+        "name":  "Keyur Kitchenware",
+        "productCount":  2
+    },
+    {
+        "id":  "khadi",
+        "name":  "Khadi",
+        "productCount":  16
+    },
+    {
+        "id":  "khadi-natural",
+        "name":  "Khadi Natural",
+        "productCount":  2
+    },
+    {
+        "id":  "khatnil",
+        "name":  "Khatnil",
+        "productCount":  1
+    },
+    {
+        "id":  "killer",
+        "name":  "Killer",
+        "productCount":  2
+    },
+    {
+        "id":  "kinder",
+        "name":  "Kinder",
+        "productCount":  1
+    },
+    {
+        "id":  "kinder-joy",
+        "name":  "Kinder Joy",
+        "productCount":  5
+    },
+    {
+        "id":  "king-solomon",
+        "name":  "King Solomon",
+        "productCount":  2
+    },
+    {
+        "id":  "kissan",
+        "name":  "Kissan",
+        "productCount":  8
+    },
+    {
+        "id":  "klf",
+        "name":  "KLF",
+        "productCount":  1
+    },
+    {
+        "id":  "kli-nol",
+        "name":  "Kli-Nol",
+        "productCount":  1
+    },
+    {
+        "id":  "kmk",
+        "name":  "KMK",
+        "productCount":  5
+    },
+    {
+        "id":  "knorr",
+        "name":  "Knorr",
+        "productCount":  15
+    },
+    {
+        "id":  "kokan-gem",
+        "name":  "Kokan Gem",
+        "productCount":  9
+    },
+    {
+        "id":  "kopiko",
+        "name":  "Kopiko",
+        "productCount":  1
+    },
+    {
+        "id":  "kpl-shudhi",
+        "name":  "KPL Shudhi",
+        "productCount":  1
+    },
+    {
+        "id":  "krack",
+        "name":  "Krack",
+        "productCount":  1
+    },
+    {
+        "id":  "kubal",
+        "name":  "Kubal",
+        "productCount":  9
+    },
+    {
+        "id":  "kurkure",
+        "name":  "Kurkure",
+        "productCount":  5
+    },
+    {
+        "id":  "kwality",
+        "name":  "Kwality",
+        "productCount":  4
+    },
+    {
+        "id":  "l-oreal-paris",
+        "name":  "LOreal Paris",
+        "productCount":  4
+    },
+    {
+        "id":  "la-opala",
+        "name":  "La Opala",
+        "productCount":  14
+    },
+    {
+        "id":  "lacto-calamine",
+        "name":  "Lacto Calamine",
+        "productCount":  1
+    },
+    {
+        "id":  "lakme",
+        "name":  "Lakme",
+        "productCount":  74
+    },
+    {
+        "id":  "lal",
+        "name":  "Lal",
+        "productCount":  5
+    },
+    {
+        "id":  "lal-qilla",
+        "name":  "Lal Qilla",
+        "productCount":  7
+    },
+    {
+        "id":  "laser",
+        "name":  "Laser",
+        "productCount":  3
+    },
+    {
+        "id":  "laxmanrekhaa",
+        "name":  "Laxmanrekhaa",
+        "productCount":  1
+    },
+    {
+        "id":  "laxmi",
+        "name":  "Laxmi",
+        "productCount":  1
+    },
+    {
+        "id":  "laxmi-dhoop",
+        "name":  "Laxmi Dhoop",
+        "productCount":  1
+    },
+    {
+        "id":  "laxminarayan",
+        "name":  "Laxminarayan",
+        "productCount":  8
+    },
+    {
+        "id":  "lays",
+        "name":  "Lays",
+        "productCount":  1
+    },
+    {
+        "id":  "lay-s",
+        "name":  "Lay\u0027s",
+        "productCount":  9
+    },
+    {
+        "id":  "lays-maxx",
+        "name":  "Lays Maxx",
+        "productCount":  1
+    },
+    {
+        "id":  "lays-wafer-style",
+        "name":  "Lays Wafer Style",
+        "productCount":  2
+    },
+    {
+        "id":  "le-cafe",
+        "name":  "Le Cafe",
+        "productCount":  2
+    },
+    {
+        "id":  "le-caf",
+        "name":  "Le Café",
+        "productCount":  1
+    },
+    {
+        "id":  "leonardo",
+        "name":  "Leonardo",
+        "productCount":  2
+    },
+    {
+        "id":  "lg-hing",
+        "name":  "LG Hing",
+        "productCount":  3
+    },
+    {
+        "id":  "lifebuoy",
+        "name":  "Lifebuoy",
+        "productCount":  8
+    },
+    {
+        "id":  "lijjat",
+        "name":  "Lijjat",
+        "productCount":  8
+    },
+    {
+        "id":  "limca",
+        "name":  "Limca",
+        "productCount":  1
+    },
+    {
+        "id":  "linc",
+        "name":  "Linc",
+        "productCount":  6
+    },
+    {
+        "id":  "lindt",
+        "name":  "Lindt",
+        "productCount":  5
+    },
+    {
+        "id":  "lipton",
+        "name":  "Lipton",
+        "productCount":  7
+    },
+    {
+        "id":  "liril",
+        "name":  "Liril",
+        "productCount":  1
+    },
+    {
+        "id":  "listerine",
+        "name":  "Listerine",
+        "productCount":  3
+    },
+    {
+        "id":  "little-s",
+        "name":  "Little\u0027s",
+        "productCount":  1
+    },
+    {
+        "id":  "livon",
+        "name":  "Livon",
+        "productCount":  1
+    },
+    {
+        "id":  "lizol",
+        "name":  "Lizol",
+        "productCount":  11
+    },
+    {
+        "id":  "loacker",
+        "name":  "Loacker",
+        "productCount":  4
+    },
+    {
+        "id":  "lock-lock",
+        "name":  "Lock \u0026 Lock",
+        "productCount":  8
+    },
+    {
+        "id":  "lookman-hayat",
+        "name":  "Lookman Hayat",
+        "productCount":  1
+    },
+    {
+        "id":  "l-oreal",
+        "name":  "L\u0027Oreal",
+        "productCount":  22
+    },
+    {
+        "id":  "lotte-choco-pie",
+        "name":  "Lotte Choco Pie",
+        "productCount":  3
+    },
+    {
+        "id":  "lotus",
+        "name":  "Lotus",
+        "productCount":  40
+    },
+    {
+        "id":  "lotus-biscoff",
+        "name":  "Lotus Biscoff",
+        "productCount":  2
+    },
+    {
+        "id":  "lotus-herbals",
+        "name":  "Lotus Herbals",
+        "productCount":  2
+    },
+    {
+        "id":  "lovin",
+        "name":  "Lovin",
+        "productCount":  2
+    },
+    {
+        "id":  "luvit",
+        "name":  "Luvit",
+        "productCount":  4
+    },
+    {
+        "id":  "lux",
+        "name":  "Lux",
+        "productCount":  8
+    },
+    {
+        "id":  "luxor",
+        "name":  "Luxor",
+        "productCount":  2
+    },
+    {
+        "id":  "maaza",
+        "name":  "Maaza",
+        "productCount":  1
+    },
+    {
+        "id":  "macho",
+        "name":  "Macho",
+        "productCount":  16
+    },
+    {
+        "id":  "madhur",
+        "name":  "Madhur",
+        "productCount":  1
+    },
+    {
+        "id":  "madhuras",
+        "name":  "Madhuras",
+        "productCount":  1
+    },
+    {
+        "id":  "maggi",
+        "name":  "Maggi",
+        "productCount":  20
+    },
+    {
+        "id":  "mahafruit",
+        "name":  "Mahafruit",
+        "productCount":  2
+    },
+    {
+        "id":  "mahesh",
+        "name":  "Mahesh",
+        "productCount":  1
+    },
+    {
+        "id":  "makhanawala-s",
+        "name":  "Makhanawala\u0027s",
+        "productCount":  11
+    },
+    {
+        "id":  "makino",
+        "name":  "Makino",
+        "productCount":  10
+    },
+    {
+        "id":  "mala-s",
+        "name":  "Mala\u0027s",
+        "productCount":  2
+    },
+    {
+        "id":  "malgudi",
+        "name":  "Malgudi",
+        "productCount":  8
+    },
+    {
+        "id":  "malkist",
+        "name":  "Malkist",
+        "productCount":  3
+    },
+    {
+        "id":  "mamaearth",
+        "name":  "Mamaearth",
+        "productCount":  27
+    },
+    {
+        "id":  "mamy-poko",
+        "name":  "Mamy Poko",
+        "productCount":  9
+    },
+    {
+        "id":  "manforce",
+        "name":  "Manforce",
+        "productCount":  2
+    },
+    {
+        "id":  "mangalam",
+        "name":  "Mangalam",
+        "productCount":  7
+    },
+    {
+        "id":  "mangaldeep",
+        "name":  "Mangaldeep",
+        "productCount":  7
+    },
+    {
+        "id":  "mangalmai",
+        "name":  "Mangalmai",
+        "productCount":  1
+    },
+    {
+        "id":  "mango-merry",
+        "name":  "Mango Merry",
+        "productCount":  2
+    },
+    {
+        "id":  "manish-handloom",
+        "name":  "Manish Handloom",
+        "productCount":  20
+    },
+    {
+        "id":  "manohar",
+        "name":  "Manohar",
+        "productCount":  1
+    },
+    {
+        "id":  "mapro",
+        "name":  "Mapro",
+        "productCount":  2
+    },
+    {
+        "id":  "margo",
+        "name":  "Margo",
+        "productCount":  1
+    },
+    {
+        "id":  "master-chef",
+        "name":  "Master Chef",
+        "productCount":  2
+    },
+    {
+        "id":  "maybelline",
+        "name":  "Maybelline",
+        "productCount":  38
+    },
+    {
+        "id":  "maybelline-new-york",
+        "name":  "Maybelline New York",
+        "productCount":  18
+    },
+    {
+        "id":  "mccain",
+        "name":  "McCain",
+        "productCount":  19
+    },
+    {
+        "id":  "mcvitie-s",
+        "name":  "McVitie\u0027s",
+        "productCount":  3
+    },
+    {
+        "id":  "mdh",
+        "name":  "MDH",
+        "productCount":  8
+    },
+    {
+        "id":  "meadows",
+        "name":  "Meadows",
+        "productCount":  7
+    },
+    {
+        "id":  "meal-time",
+        "name":  "Meal Time",
+        "productCount":  1
+    },
+    {
+        "id":  "medimix",
+        "name":  "Medimix",
+        "productCount":  4
+    },
+    {
+        "id":  "medley",
+        "name":  "Medley",
+        "productCount":  1
+    },
+    {
+        "id":  "menthodex",
+        "name":  "Menthodex",
+        "productCount":  2
+    },
+    {
+        "id":  "miki",
+        "name":  "Miki",
+        "productCount":  1
+    },
+    {
+        "id":  "mild-clear",
+        "name":  "Mild \u0026 Clear",
+        "productCount":  3
+    },
+    {
+        "id":  "milka",
+        "name":  "Milka",
+        "productCount":  1
+    },
+    {
+        "id":  "milton",
+        "name":  "Milton",
+        "productCount":  4
+    },
+    {
+        "id":  "minute-maid",
+        "name":  "Minute Maid",
+        "productCount":  1
+    },
+    {
+        "id":  "mirabelle",
+        "name":  "Mirabelle",
+        "productCount":  8
+    },
+    {
+        "id":  "mirinda",
+        "name":  "Mirinda",
+        "productCount":  1
+    },
+    {
+        "id":  "modern-terry-towels",
+        "name":  "Modern Terry Towels",
+        "productCount":  9
+    },
+    {
+        "id":  "monin",
+        "name":  "Monin",
+        "productCount":  4
+    },
+    {
+        "id":  "monisons",
+        "name":  "Monisons",
+        "productCount":  2
+    },
+    {
+        "id":  "monison-s",
+        "name":  "Monison\u0027s",
+        "productCount":  1
+    },
+    {
+        "id":  "monster",
+        "name":  "Monster",
+        "productCount":  1
+    },
+    {
+        "id":  "moov",
+        "name":  "Moov",
+        "productCount":  4
+    },
+    {
+        "id":  "morde",
+        "name":  "Morde",
+        "productCount":  4
+    },
+    {
+        "id":  "more-light",
+        "name":  "More Light",
+        "productCount":  1
+    },
+    {
+        "id":  "morphy-richards",
+        "name":  "Morphy Richards",
+        "productCount":  1
+    },
+    {
+        "id":  "mortein",
+        "name":  "Mortein",
+        "productCount":  3
+    },
+    {
+        "id":  "morya",
+        "name":  "Morya",
+        "productCount":  1
+    },
+    {
+        "id":  "motas",
+        "name":  "Motas",
+        "productCount":  1
+    },
+    {
+        "id":  "mother-dairy",
+        "name":  "Mother Dairy",
+        "productCount":  5
+    },
+    {
+        "id":  "mother-s",
+        "name":  "Mother\u0027s",
+        "productCount":  1
+    },
+    {
+        "id":  "mother-s-recipe",
+        "name":  "Mother\u0027s Recipe",
+        "productCount":  12
+    },
+    {
+        "id":  "mr-muscle",
+        "name":  "Mr Muscle",
+        "productCount":  1
+    },
+    {
+        "id":  "mr-white",
+        "name":  "Mr. White",
+        "productCount":  1
+    },
+    {
+        "id":  "mst",
+        "name":  "MST",
+        "productCount":  7
+    },
+    {
+        "id":  "mtr",
+        "name":  "MTR",
+        "productCount":  12
+    },
+    {
+        "id":  "munchilicious-granola",
+        "name":  "Munchilicious Granola",
+        "productCount":  3
+    },
+    {
+        "id":  "munchy-s",
+        "name":  "Munchy\u0027s",
+        "productCount":  4
+    },
+    {
+        "id":  "mysore",
+        "name":  "Mysore",
+        "productCount":  4
+    },
+    {
+        "id":  "mysore-sandal",
+        "name":  "Mysore Sandal",
+        "productCount":  1
+    },
+    {
+        "id":  "naag",
+        "name":  "Naag",
+        "productCount":  1
+    },
+    {
+        "id":  "naagin",
+        "name":  "Naagin",
+        "productCount":  6
+    },
+    {
+        "id":  "nandini",
+        "name":  "Nandini",
+        "productCount":  1
+    },
+    {
+        "id":  "nasle",
+        "name":  "Nasle",
+        "productCount":  1
+    },
+    {
+        "id":  "natural-s",
+        "name":  "Natural\u0027s",
+        "productCount":  3
+    },
+    {
+        "id":  "natural-s-bite",
+        "name":  "Natural\u0027s Bite",
+        "productCount":  11
+    },
+    {
+        "id":  "nature-fresh",
+        "name":  "Nature Fresh",
+        "productCount":  3
+    },
+    {
+        "id":  "nature-valley",
+        "name":  "Nature Valley",
+        "productCount":  2
+    },
+    {
+        "id":  "nature-s-treat",
+        "name":  "Nature\u0027s Treat",
+        "productCount":  1
+    },
+    {
+        "id":  "navneet",
+        "name":  "Navneet",
+        "productCount":  11
+    },
+    {
+        "id":  "navratna",
+        "name":  "Navratna",
+        "productCount":  2
+    },
+    {
+        "id":  "nayasa",
+        "name":  "Nayasa",
+        "productCount":  1
+    },
+    {
+        "id":  "nescafe",
+        "name":  "Nescafe",
+        "productCount":  16
+    },
+    {
+        "id":  "nescaf",
+        "name":  "Nescafé",
+        "productCount":  1
+    },
+    {
+        "id":  "nestle",
+        "name":  "Nestle",
+        "productCount":  14
+    },
+    {
+        "id":  "nestle-l-atelier",
+        "name":  "Nestle L\u0027Atelier",
+        "productCount":  1
+    },
+    {
+        "id":  "neutrogena",
+        "name":  "Neutrogena",
+        "productCount":  7
+    },
+    {
+        "id":  "nidhi",
+        "name":  "Nidhi",
+        "productCount":  2
+    },
+    {
+        "id":  "nilkamal",
+        "name":  "Nilkamal",
+        "productCount":  3
+    },
+    {
+        "id":  "nimyle",
+        "name":  "Nimyle",
+        "productCount":  2
+    },
+    {
+        "id":  "nippo",
+        "name":  "Nippo",
+        "productCount":  3
+    },
+    {
+        "id":  "nirmal",
+        "name":  "Nirmal",
+        "productCount":  4
+    },
+    {
+        "id":  "nisarga",
+        "name":  "Nisarga",
+        "productCount":  1
+    },
+    {
+        "id":  "nissin",
+        "name":  "Nissin",
+        "productCount":  1
+    },
+    {
+        "id":  "nivea",
+        "name":  "Nivea",
+        "productCount":  39
+    },
+    {
+        "id":  "nivea-india",
+        "name":  "Nivea India",
+        "productCount":  2
+    },
+    {
+        "id":  "no-fuss",
+        "name":  "No Fuss",
+        "productCount":  22
+    },
+    {
+        "id":  "nongshim",
+        "name":  "Nongshim",
+        "productCount":  3
+    },
+    {
+        "id":  "null",
+        "name":  "null",
+        "productCount":  1
+    },
+    {
+        "id":  "nutella-ferrero",
+        "name":  "Nutella Ferrero",
+        "productCount":  1
+    },
+    {
+        "id":  "nutraj",
+        "name":  "Nutraj",
+        "productCount":  14
+    },
+    {
+        "id":  "nutralite",
+        "name":  "Nutralite",
+        "productCount":  2
+    },
+    {
+        "id":  "nutrela",
+        "name":  "Nutrela",
+        "productCount":  3
+    },
+    {
+        "id":  "nutri-delite",
+        "name":  "Nutri Delite",
+        "productCount":  4
+    },
+    {
+        "id":  "nutrivalue",
+        "name":  "Nutrivalue",
+        "productCount":  4
+    },
+    {
+        "id":  "nyle-naturals",
+        "name":  "Nyle Naturals",
+        "productCount":  2
+    },
+    {
+        "id":  "ocean",
+        "name":  "OCean",
+        "productCount":  2
+    },
+    {
+        "id":  "o-cean",
+        "name":  "O\u0027cean",
+        "productCount":  2
+    },
+    {
+        "id":  "odomos",
+        "name":  "Odomos",
+        "productCount":  1
+    },
+    {
+        "id":  "odonil",
+        "name":  "Odonil",
+        "productCount":  8
+    },
+    {
+        "id":  "olay",
+        "name":  "Olay",
+        "productCount":  10
+    },
+    {
+        "id":  "om",
+        "name":  "Om",
+        "productCount":  1
+    },
+    {
+        "id":  "om-shanti",
+        "name":  "Om Shanti",
+        "productCount":  1
+    },
+    {
+        "id":  "oral-dent",
+        "name":  "Oral Dent",
+        "productCount":  2
+    },
+    {
+        "id":  "oral-b",
+        "name":  "Oral-B",
+        "productCount":  2
+    },
+    {
+        "id":  "oraldent",
+        "name":  "Oraldent",
+        "productCount":  4
+    },
+    {
+        "id":  "orbit",
+        "name":  "Orbit",
+        "productCount":  2
+    },
+    {
+        "id":  "organic",
+        "name":  "Organic",
+        "productCount":  2
+    },
+    {
+        "id":  "organic-india",
+        "name":  "Organic India",
+        "productCount":  4
+    },
+    {
+        "id":  "organic-tattva",
+        "name":  "Organic Tattva",
+        "productCount":  14
+    },
+    {
+        "id":  "origami",
+        "name":  "Origami",
+        "productCount":  7
+    },
+    {
+        "id":  "orion",
+        "name":  "Orion",
+        "productCount":  1
+    },
+    {
+        "id":  "orpat",
+        "name":  "Orpat",
+        "productCount":  1
+    },
+    {
+        "id":  "palmolive",
+        "name":  "Palmolive",
+        "productCount":  6
+    },
+    {
+        "id":  "pampers",
+        "name":  "Pampers",
+        "productCount":  10
+    },
+    {
+        "id":  "pan-aromas",
+        "name":  "Pan Aromas",
+        "productCount":  4
+    },
+    {
+        "id":  "panasonic",
+        "name":  "Panasonic",
+        "productCount":  3
+    },
+    {
+        "id":  "panjwani",
+        "name":  "Panjwani",
+        "productCount":  4
+    },
+    {
+        "id":  "pantene",
+        "name":  "Pantene",
+        "productCount":  5
+    },
+    {
+        "id":  "paper-boat",
+        "name":  "Paper Boat",
+        "productCount":  6
+    },
+    {
+        "id":  "parachute",
+        "name":  "Parachute",
+        "productCount":  9
+    },
+    {
+        "id":  "paras",
+        "name":  "Paras",
+        "productCount":  1
+    },
+    {
+        "id":  "park",
+        "name":  "Park",
+        "productCount":  3
+    },
+    {
+        "id":  "park-avenue",
+        "name":  "Park Avenue",
+        "productCount":  5
+    },
+    {
+        "id":  "parle",
+        "name":  "Parle",
+        "productCount":  25
+    },
+    {
+        "id":  "parsi-dairy-farm",
+        "name":  "Parsi Dairy Farm",
+        "productCount":  2
+    },
+    {
+        "id":  "patanjali",
+        "name":  "Patanjali",
+        "productCount":  15
+    },
+    {
+        "id":  "pears",
+        "name":  "Pears",
+        "productCount":  10
+    },
+    {
+        "id":  "pediasure",
+        "name":  "Pediasure",
+        "productCount":  6
+    },
+    {
+        "id":  "pedigree",
+        "name":  "Pedigree",
+        "productCount":  6
+    },
+    {
+        "id":  "peppy",
+        "name":  "Peppy",
+        "productCount":  2
+    },
+    {
+        "id":  "pepsi",
+        "name":  "Pepsi",
+        "productCount":  2
+    },
+    {
+        "id":  "pepsodent",
+        "name":  "Pepsodent",
+        "productCount":  2
+    },
+    {
+        "id":  "phenox",
+        "name":  "Phenox",
+        "productCount":  1
+    },
+    {
+        "id":  "philips",
+        "name":  "Philips",
+        "productCount":  24
+    },
+    {
+        "id":  "phondaghat",
+        "name":  "Phondaghat",
+        "productCount":  3
+    },
+    {
+        "id":  "phy",
+        "name":  "Phy",
+        "productCount":  1
+    },
+    {
+        "id":  "pickwick",
+        "name":  "Pickwick",
+        "productCount":  3
+    },
+    {
+        "id":  "pidilite",
+        "name":  "Pidilite",
+        "productCount":  11
+    },
+    {
+        "id":  "pigeon",
+        "name":  "Pigeon",
+        "productCount":  13
+    },
+    {
+        "id":  "piknik",
+        "name":  "Piknik",
+        "productCount":  1
+    },
+    {
+        "id":  "pillsbury",
+        "name":  "Pillsbury",
+        "productCount":  7
+    },
+    {
+        "id":  "pink-harvest",
+        "name":  "Pink Harvest",
+        "productCount":  3
+    },
+    {
+        "id":  "pink-harvest-farms",
+        "name":  "Pink Harvest Farms",
+        "productCount":  2
+    },
+    {
+        "id":  "pintola",
+        "name":  "Pintola",
+        "productCount":  4
+    },
+    {
+        "id":  "pitambari",
+        "name":  "Pitambari",
+        "productCount":  4
+    },
+    {
+        "id":  "plain-jaggery",
+        "name":  "Plain Jaggery",
+        "productCount":  2
+    },
+    {
+        "id":  "plum",
+        "name":  "Plum",
+        "productCount":  14
+    },
+    {
+        "id":  "pond-s",
+        "name":  "Pond\u0027s",
+        "productCount":  18
+    },
+    {
+        "id":  "portronics",
+        "name":  "Portronics",
+        "productCount":  10
+    },
+    {
+        "id":  "potronics",
+        "name":  "Potronics",
+        "productCount":  4
+    },
+    {
+        "id":  "prabhat",
+        "name":  "Prabhat",
+        "productCount":  2
+    },
+    {
+        "id":  "prabhu",
+        "name":  "Prabhu",
+        "productCount":  1
+    },
+    {
+        "id":  "prasanna-jyot",
+        "name":  "Prasanna Jyot",
+        "productCount":  2
+    },
+    {
+        "id":  "prasuma",
+        "name":  "Prasuma",
+        "productCount":  3
+    },
+    {
+        "id":  "pravin",
+        "name":  "Pravin",
+        "productCount":  7
+    },
+    {
+        "id":  "premchand",
+        "name":  "Premchand",
+        "productCount":  1
+    },
+    {
+        "id":  "premia",
+        "name":  "Premia",
+        "productCount":  155
+    },
+    {
+        "id":  "premier",
+        "name":  "Premier",
+        "productCount":  5
+    },
+    {
+        "id":  "premium",
+        "name":  "Premium",
+        "productCount":  2
+    },
+    {
+        "id":  "president",
+        "name":  "President",
+        "productCount":  2
+    },
+    {
+        "id":  "prestige",
+        "name":  "Prestige",
+        "productCount":  14
+    },
+    {
+        "id":  "pril",
+        "name":  "Pril",
+        "productCount":  3
+    },
+    {
+        "id":  "pringles",
+        "name":  "Pringles",
+        "productCount":  4
+    },
+    {
+        "id":  "proteinex",
+        "name":  "Proteinex",
+        "productCount":  1
+    },
+    {
+        "id":  "protinex",
+        "name":  "Protinex",
+        "productCount":  4
+    },
+    {
+        "id":  "prov",
+        "name":  "ProV",
+        "productCount":  3
+    },
+    {
+        "id":  "puro",
+        "name":  "Puro",
+        "productCount":  1
+    },
+    {
+        "id":  "quaker",
+        "name":  "Quaker",
+        "productCount":  2
+    },
+    {
+        "id":  "ragu",
+        "name":  "Ragu",
+        "productCount":  6
+    },
+    {
+        "id":  "rajam",
+        "name":  "Rajam",
+        "productCount":  3
+    },
+    {
+        "id":  "rajam-snacks",
+        "name":  "Rajam Snacks",
+        "productCount":  11
+    },
+    {
+        "id":  "ramdev",
+        "name":  "Ramdev",
+        "productCount":  5
+    },
+    {
+        "id":  "rasmalai",
+        "name":  "Rasmalai",
+        "productCount":  1
+    },
+    {
+        "id":  "rasoi-magic",
+        "name":  "Rasoi Magic",
+        "productCount":  4
+    },
+    {
+        "id":  "raw-pressery",
+        "name":  "Raw Pressery",
+        "productCount":  6
+    },
+    {
+        "id":  "raymond",
+        "name":  "Raymond",
+        "productCount":  8
+    },
+    {
+        "id":  "real",
+        "name":  "Real",
+        "productCount":  7
+    },
+    {
+        "id":  "real-thai",
+        "name":  "Real Thai",
+        "productCount":  3
+    },
+    {
+        "id":  "recron",
+        "name":  "Recron",
+        "productCount":  2
+    },
+    {
+        "id":  "red-bull",
+        "name":  "Red Bull",
+        "productCount":  4
+    },
+    {
+        "id":  "reflect",
+        "name":  "Reflect",
+        "productCount":  10
+    },
+    {
+        "id":  "relaxo",
+        "name":  "Relaxo",
+        "productCount":  2
+    },
+    {
+        "id":  "relaxo-flite",
+        "name":  "Relaxo Flite",
+        "productCount":  3
+    },
+    {
+        "id":  "relispray",
+        "name":  "Relispray",
+        "productCount":  3
+    },
+    {
+        "id":  "renu",
+        "name":  "Renu",
+        "productCount":  3
+    },
+    {
+        "id":  "revive",
+        "name":  "Revive",
+        "productCount":  1
+    },
+    {
+        "id":  "revlon",
+        "name":  "Revlon",
+        "productCount":  3
+    },
+    {
+        "id":  "rexona",
+        "name":  "Rexona",
+        "productCount":  1
+    },
+    {
+        "id":  "ricela",
+        "name":  "Ricela",
+        "productCount":  2
+    },
+    {
+        "id":  "rin",
+        "name":  "Rin",
+        "productCount":  8
+    },
+    {
+        "id":  "riso",
+        "name":  "RiSO",
+        "productCount":  2
+    },
+    {
+        "id":  "ritebite",
+        "name":  "RiteBite",
+        "productCount":  5
+    },
+    {
+        "id":  "roghan",
+        "name":  "Roghan",
+        "productCount":  1
+    },
+    {
+        "id":  "roop-mantra",
+        "name":  "Roop Mantra",
+        "productCount":  2
+    },
+    {
+        "id":  "royal",
+        "name":  "Royal",
+        "productCount":  7
+    },
+    {
+        "id":  "royal-delight",
+        "name":  "Royal Delight",
+        "productCount":  4
+    },
+    {
+        "id":  "royal-khari",
+        "name":  "Royal Khari",
+        "productCount":  1
+    },
+    {
+        "id":  "rro",
+        "name":  "RRO",
+        "productCount":  7
+    },
+    {
+        "id":  "rro-primio",
+        "name":  "RRO Primio",
+        "productCount":  2
+    },
+    {
+        "id":  "ruchi",
+        "name":  "Ruchi",
+        "productCount":  1
+    },
+    {
+        "id":  "ruchira",
+        "name":  "Ruchira",
+        "productCount":  2
+    },
+    {
+        "id":  "rupa",
+        "name":  "Rupa",
+        "productCount":  6
+    },
+    {
+        "id":  "safal",
+        "name":  "Safal",
+        "productCount":  5
+    },
+    {
+        "id":  "safari",
+        "name":  "Safari",
+        "productCount":  1
+    },
+    {
+        "id":  "saffola",
+        "name":  "Saffola",
+        "productCount":  18
+    },
+    {
+        "id":  "safi",
+        "name":  "Safi",
+        "productCount":  1
+    },
+    {
+        "id":  "sagar",
+        "name":  "Sagar",
+        "productCount":  2
+    },
+    {
+        "id":  "sani-fresh",
+        "name":  "Sani Fresh",
+        "productCount":  1
+    },
+    {
+        "id":  "sanjeev",
+        "name":  "Sanjeev",
+        "productCount":  8
+    },
+    {
+        "id":  "santoor",
+        "name":  "Santoor",
+        "productCount":  7
+    },
+    {
+        "id":  "sapna",
+        "name":  "Sapna",
+        "productCount":  3
+    },
+    {
+        "id":  "satyam",
+        "name":  "Satyam",
+        "productCount":  68
+    },
+    {
+        "id":  "savlon",
+        "name":  "Savlon",
+        "productCount":  6
+    },
+    {
+        "id":  "schweppes",
+        "name":  "Schweppes",
+        "productCount":  2
+    },
+    {
+        "id":  "scotch-brite",
+        "name":  "Scotch Brite",
+        "productCount":  1
+    },
+    {
+        "id":  "scotch-brite",
+        "name":  "Scotch-Brite",
+        "productCount":  23
+    },
+    {
+        "id":  "sensodyne",
+        "name":  "Sensodyne",
+        "productCount":  12
+    },
+    {
+        "id":  "shades",
+        "name":  "Shades",
+        "productCount":  19
+    },
+    {
+        "id":  "shamim",
+        "name":  "Shamim",
+        "productCount":  1
+    },
+    {
+        "id":  "shan",
+        "name":  "Shan",
+        "productCount":  5
+    },
+    {
+        "id":  "ship",
+        "name":  "Ship",
+        "productCount":  1
+    },
+    {
+        "id":  "shiv-shakti-s",
+        "name":  "Shiv Shakti\u0027s",
+        "productCount":  7
+    },
+    {
+        "id":  "shree-ram-bikaneri",
+        "name":  "Shree Ram Bikaneri",
+        "productCount":  1
+    },
+    {
+        "id":  "shree-siddhivinayak",
+        "name":  "Shree Siddhivinayak",
+        "productCount":  8
+    },
+    {
+        "id":  "shri-ram",
+        "name":  "Shri Ram",
+        "productCount":  1
+    },
+    {
+        "id":  "shubh-kart",
+        "name":  "Shubh Kart",
+        "productCount":  1
+    },
+    {
+        "id":  "shubhkart",
+        "name":  "Shubhkart",
+        "productCount":  3
+    },
+    {
+        "id":  "siddhi",
+        "name":  "Siddhi",
+        "productCount":  8
+    },
+    {
+        "id":  "signoraware",
+        "name":  "Signoraware",
+        "productCount":  7
+    },
+    {
+        "id":  "skittles",
+        "name":  "Skittles",
+        "productCount":  2
+    },
+    {
+        "id":  "skore",
+        "name":  "Skore",
+        "productCount":  2
+    },
+    {
+        "id":  "skybags",
+        "name":  "Skybags",
+        "productCount":  2
+    },
+    {
+        "id":  "slice",
+        "name":  "Slice",
+        "productCount":  1
+    },
+    {
+        "id":  "slurrp-farm",
+        "name":  "Slurrp Farm",
+        "productCount":  2
+    },
+    {
+        "id":  "smith-jones",
+        "name":  "Smith \u0026 Jones",
+        "productCount":  1
+    },
+    {
+        "id":  "smyle",
+        "name":  "Smyle",
+        "productCount":  1
+    },
+    {
+        "id":  "snapin",
+        "name":  "Snapin",
+        "productCount":  10
+    },
+    {
+        "id":  "snickers",
+        "name":  "Snickers",
+        "productCount":  2
+    },
+    {
+        "id":  "society",
+        "name":  "Society",
+        "productCount":  9
+    },
+    {
+        "id":  "sof",
+        "name":  "Sof",
+        "productCount":  1
+    },
+    {
+        "id":  "sofit",
+        "name":  "Sofit",
+        "productCount":  4
+    },
+    {
+        "id":  "sofy",
+        "name":  "Sofy",
+        "productCount":  1
+    },
+    {
+        "id":  "soulflower",
+        "name":  "Soulflower",
+        "productCount":  9
+    },
+    {
+        "id":  "soulfull",
+        "name":  "Soulfull",
+        "productCount":  2
+    },
+    {
+        "id":  "sparkle",
+        "name":  "Sparkle",
+        "productCount":  11
+    },
+    {
+        "id":  "spinz",
+        "name":  "Spinz",
+        "productCount":  1
+    },
+    {
+        "id":  "spotzero",
+        "name":  "Spotzero",
+        "productCount":  1
+    },
+    {
+        "id":  "sprite",
+        "name":  "Sprite",
+        "productCount":  3
+    },
+    {
+        "id":  "sriracha",
+        "name":  "Sriracha",
+        "productCount":  1
+    },
+    {
+        "id":  "srithai-superware",
+        "name":  "Srithai Superware",
+        "productCount":  10
+    },
+    {
+        "id":  "st-dalfour",
+        "name":  "St. Dalfour",
+        "productCount":  3
+    },
+    {
+        "id":  "star-bright",
+        "name":  "Star Bright",
+        "productCount":  2
+    },
+    {
+        "id":  "star-light",
+        "name":  "Star Light",
+        "productCount":  4
+    },
+    {
+        "id":  "stayfree",
+        "name":  "Stayfree",
+        "productCount":  6
+    },
+    {
+        "id":  "studds",
+        "name":  "Studds",
+        "productCount":  2
+    },
+    {
+        "id":  "sugar-free",
+        "name":  "Sugar Free",
+        "productCount":  10
+    },
+    {
+        "id":  "suhana",
+        "name":  "Suhana",
+        "productCount":  11
+    },
+    {
+        "id":  "sumeru",
+        "name":  "Sumeru",
+        "productCount":  4
+    },
+    {
+        "id":  "sun",
+        "name":  "Sun",
+        "productCount":  19
+    },
+    {
+        "id":  "sundaram",
+        "name":  "Sundaram",
+        "productCount":  3
+    },
+    {
+        "id":  "sunday",
+        "name":  "Sunday",
+        "productCount":  1
+    },
+    {
+        "id":  "sundrop",
+        "name":  "Sundrop",
+        "productCount":  2
+    },
+    {
+        "id":  "sunfeast",
+        "name":  "Sunfeast",
+        "productCount":  6
+    },
+    {
+        "id":  "sunfeast-bourbon",
+        "name":  "Sunfeast Bourbon",
+        "productCount":  1
+    },
+    {
+        "id":  "sunfeast-dark-fantasy",
+        "name":  "Sunfeast Dark Fantasy",
+        "productCount":  4
+    },
+    {
+        "id":  "sunfeast-mom-s-magic",
+        "name":  "Sunfeast Mom\u0027s Magic",
+        "productCount":  1
+    },
+    {
+        "id":  "sunfeast-nice",
+        "name":  "Sunfeast Nice",
+        "productCount":  1
+    },
+    {
+        "id":  "sunfeast-pasta-treat",
+        "name":  "Sunfeast Pasta Treat",
+        "productCount":  1
+    },
+    {
+        "id":  "sunfeast-yippee",
+        "name":  "Sunfeast Yippee",
+        "productCount":  4
+    },
+    {
+        "id":  "sunlight",
+        "name":  "Sunlight",
+        "productCount":  1
+    },
+    {
+        "id":  "sunny",
+        "name":  "Sunny",
+        "productCount":  3
+    },
+    {
+        "id":  "sunrich",
+        "name":  "Sunrich",
+        "productCount":  2
+    },
+    {
+        "id":  "sunsilk",
+        "name":  "Sunsilk",
+        "productCount":  6
+    },
+    {
+        "id":  "supermax",
+        "name":  "Supermax",
+        "productCount":  6
+    },
+    {
+        "id":  "superwrap",
+        "name":  "Superwrap",
+        "productCount":  1
+    },
+    {
+        "id":  "surabhi",
+        "name":  "Surabhi",
+        "productCount":  3
+    },
+    {
+        "id":  "surf-excel",
+        "name":  "Surf Excel",
+        "productCount":  17
+    },
+    {
+        "id":  "surya",
+        "name":  "Surya",
+        "productCount":  2
+    },
+    {
+        "id":  "svity-kolam",
+        "name":  "Svity Kolam",
+        "productCount":  1
+    },
+    {
+        "id":  "swaad",
+        "name":  "Swaad",
+        "productCount":  3
+    },
+    {
+        "id":  "switz",
+        "name":  "Switz",
+        "productCount":  3
+    },
+    {
+        "id":  "syska",
+        "name":  "Syska",
+        "productCount":  9
+    },
+    {
+        "id":  "taali",
+        "name":  "Taali",
+        "productCount":  4
+    },
+    {
+        "id":  "tabasco",
+        "name":  "Tabasco",
+        "productCount":  2
+    },
+    {
+        "id":  "taina",
+        "name":  "Taina",
+        "productCount":  2
+    },
+    {
+        "id":  "taj-mahal",
+        "name":  "Taj Mahal",
+        "productCount":  2
+    },
+    {
+        "id":  "talod",
+        "name":  "Talod",
+        "productCount":  2
+    },
+    {
+        "id":  "talod-s",
+        "name":  "Talod\u0027s",
+        "productCount":  3
+    },
+    {
+        "id":  "taste-for-life",
+        "name":  "Taste For Life",
+        "productCount":  3
+    },
+    {
+        "id":  "tastilo",
+        "name":  "Tastilo",
+        "productCount":  6
+    },
+    {
+        "id":  "tata",
+        "name":  "Tata",
+        "productCount":  17
+    },
+    {
+        "id":  "tata-sampann",
+        "name":  "Tata Sampann",
+        "productCount":  11
+    },
+    {
+        "id":  "tata-soulfull-millet-muesli",
+        "name":  "Tata Soulfull Millet Muesli",
+        "productCount":  2
+    },
+    {
+        "id":  "tata-tea",
+        "name":  "Tata Tea",
+        "productCount":  12
+    },
+    {
+        "id":  "tea-country",
+        "name":  "Tea Country",
+        "productCount":  2
+    },
+    {
+        "id":  "tea-culture-of-the-world",
+        "name":  "Tea Culture Of The World",
+        "productCount":  4
+    },
+    {
+        "id":  "tea-culture-of-world",
+        "name":  "Tea Culture Of World",
+        "productCount":  1
+    },
+    {
+        "id":  "tetley",
+        "name":  "Tetley",
+        "productCount":  6
+    },
+    {
+        "id":  "tez",
+        "name":  "Tez",
+        "productCount":  3
+    },
+    {
+        "id":  "tgl-co",
+        "name":  "TGL Co.",
+        "productCount":  3
+    },
+    {
+        "id":  "the-belgian-waffle-co",
+        "name":  "The Belgian Waffle Co",
+        "productCount":  2
+    },
+    {
+        "id":  "threptin",
+        "name":  "Threptin",
+        "productCount":  3
+    },
+    {
+        "id":  "thums-up",
+        "name":  "Thums up",
+        "productCount":  3
+    },
+    {
+        "id":  "tic",
+        "name":  "Tic",
+        "productCount":  4
+    },
+    {
+        "id":  "tide",
+        "name":  "Tide",
+        "productCount":  8
+    },
+    {
+        "id":  "tiger-balm",
+        "name":  "Tiger Balm",
+        "productCount":  4
+    },
+    {
+        "id":  "tigi",
+        "name":  "Tigi",
+        "productCount":  1
+    },
+    {
+        "id":  "tilsona",
+        "name":  "Tilsona",
+        "productCount":  2
+    },
+    {
+        "id":  "toblerone",
+        "name":  "Toblerone",
+        "productCount":  6
+    },
+    {
+        "id":  "tong-garden",
+        "name":  "Tong Garden",
+        "productCount":  10
+    },
+    {
+        "id":  "too-yumm",
+        "name":  "Too Yumm",
+        "productCount":  6
+    },
+    {
+        "id":  "top-ramen",
+        "name":  "Top Ramen",
+        "productCount":  1
+    },
+    {
+        "id":  "tosita",
+        "name":  "Tosita",
+        "productCount":  17
+    },
+    {
+        "id":  "treo",
+        "name":  "Treo",
+        "productCount":  1
+    },
+    {
+        "id":  "tresemme",
+        "name":  "Tresemme",
+        "productCount":  7
+    },
+    {
+        "id":  "trident",
+        "name":  "Trident",
+        "productCount":  18
+    },
+    {
+        "id":  "tropicana",
+        "name":  "Tropicana",
+        "productCount":  4
+    },
+    {
+        "id":  "tru-note",
+        "name":  "Tru Note",
+        "productCount":  3
+    },
+    {
+        "id":  "trupti",
+        "name":  "Trupti",
+        "productCount":  2
+    },
+    {
+        "id":  "tulips",
+        "name":  "Tulips",
+        "productCount":  2
+    },
+    {
+        "id":  "tuong-ot",
+        "name":  "Tuong Ot",
+        "productCount":  2
+    },
+    {
+        "id":  "twinings",
+        "name":  "Twinings",
+        "productCount":  8
+    },
+    {
+        "id":  "ujala",
+        "name":  "Ujala",
+        "productCount":  1
+    },
+    {
+        "id":  "unibic",
+        "name":  "Unibic",
+        "productCount":  12
+    },
+    {
+        "id":  "usha",
+        "name":  "Usha",
+        "productCount":  10
+    },
+    {
+        "id":  "vaidehi",
+        "name":  "Vaidehi",
+        "productCount":  8
+    },
+    {
+        "id":  "vandevi",
+        "name":  "Vandevi",
+        "productCount":  4
+    },
+    {
+        "id":  "vanish",
+        "name":  "Vanish",
+        "productCount":  2
+    },
+    {
+        "id":  "vaseline",
+        "name":  "Vaseline",
+        "productCount":  6
+    },
+    {
+        "id":  "vatsal",
+        "name":  "Vatsal",
+        "productCount":  2
+    },
+    {
+        "id":  "vaya-tyffyn",
+        "name":  "Vaya Tyffyn",
+        "productCount":  2
+    },
+    {
+        "id":  "veeba",
+        "name":  "Veeba",
+        "productCount":  24
+    },
+    {
+        "id":  "veet",
+        "name":  "Veet",
+        "productCount":  7
+    },
+    {
+        "id":  "vega",
+        "name":  "Vega",
+        "productCount":  6
+    },
+    {
+        "id":  "vicco",
+        "name":  "Vicco",
+        "productCount":  5
+    },
+    {
+        "id":  "vicks",
+        "name":  "Vicks",
+        "productCount":  7
+    },
+    {
+        "id":  "vim",
+        "name":  "Vim",
+        "productCount":  11
+    },
+    {
+        "id":  "vip",
+        "name":  "VIP",
+        "productCount":  4
+    },
+    {
+        "id":  "vwash",
+        "name":  "VWash",
+        "productCount":  1
+    },
+    {
+        "id":  "wagh-bakri",
+        "name":  "Wagh Bakri",
+        "productCount":  12
+    },
+    {
+        "id":  "wayback",
+        "name":  "Wayback",
+        "productCount":  6
+    },
+    {
+        "id":  "weikfield",
+        "name":  "Weikfield",
+        "productCount":  3
+    },
+    {
+        "id":  "welcome",
+        "name":  "Welcome",
+        "productCount":  1
+    },
+    {
+        "id":  "welspun",
+        "name":  "Welspun",
+        "productCount":  10
+    },
+    {
+        "id":  "wheel",
+        "name":  "Wheel",
+        "productCount":  2
+    },
+    {
+        "id":  "whiskas",
+        "name":  "Whiskas",
+        "productCount":  2
+    },
+    {
+        "id":  "whisper",
+        "name":  "Whisper",
+        "productCount":  16
+    },
+    {
+        "id":  "wild-stone",
+        "name":  "Wild Stone",
+        "productCount":  6
+    },
+    {
+        "id":  "wildcraft",
+        "name":  "Wildcraft",
+        "productCount":  8
+    },
+    {
+        "id":  "winall",
+        "name":  "Winall",
+        "productCount":  7
+    },
+    {
+        "id":  "wingreens",
+        "name":  "Wingreens",
+        "productCount":  14
+    },
+    {
+        "id":  "wipro",
+        "name":  "Wipro",
+        "productCount":  4
+    },
+    {
+        "id":  "wipro-maxkleen",
+        "name":  "Wipro Maxkleen",
+        "productCount":  2
+    },
+    {
+        "id":  "wipro-safewash",
+        "name":  "Wipro Safewash",
+        "productCount":  2
+    },
+    {
+        "id":  "wipro-softouch",
+        "name":  "Wipro Softouch",
+        "productCount":  3
+    },
+    {
+        "id":  "wonderchef",
+        "name":  "Wonderchef",
+        "productCount":  10
+    },
+    {
+        "id":  "wow-skin-science",
+        "name":  "Wow Skin Science",
+        "productCount":  7
+    },
+    {
+        "id":  "wrigley",
+        "name":  "Wrigley",
+        "productCount":  1
+    },
+    {
+        "id":  "wrigleys",
+        "name":  "Wrigleys",
+        "productCount":  2
+    },
+    {
+        "id":  "xotik-beverages",
+        "name":  "Xotik Beverages",
+        "productCount":  2
+    },
+    {
+        "id":  "xotik-jeeru",
+        "name":  "Xotik Jeeru",
+        "productCount":  1
+    },
+    {
+        "id":  "yakult",
+        "name":  "Yakult",
+        "productCount":  2
+    },
+    {
+        "id":  "yardley",
+        "name":  "Yardley",
+        "productCount":  5
+    },
+    {
+        "id":  "yera",
+        "name":  "Yera",
+        "productCount":  6
+    },
+    {
+        "id":  "yoga-bar",
+        "name":  "Yoga Bar",
+        "productCount":  10
+    },
+    {
+        "id":  "yogabar",
+        "name":  "Yogabar",
+        "productCount":  2
+    },
+    {
+        "id":  "zandu",
+        "name":  "Zandu",
+        "productCount":  4
+    },
+    {
+        "id":  "zebronics",
+        "name":  "Zebronics",
+        "productCount":  14
+    },
+    {
+        "id":  "zeel",
+        "name":  "Zeel",
+        "productCount":  33
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-09-14T02:59:46.458Z",
+  "source": "DMart Digital CDN",
+  "localProducts": 5188,
+  "masterProducts": 11523,
+  "productsWithImages": 5188,
+  "productsWithoutImages": 0,
+  "uniqueImageKeysUsed": 5188,
+  "exactMatches": 3,
+  "strongMatches": 1612,
+  "fuzzyMatches": 3573,
+  "fallbackMatches": 0,
+  "imageUrlPattern": "https://cdn.dmart.in/images/products/{productImageKey}_B.jpg",
+  "imagePolicy": "Real DMart CDN product images. Unique image keys preferred."
+}

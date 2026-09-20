@@ -1,0 +1,350 @@
+{
+  "generatedAt": "2026-09-19T12:59:14.670Z",
+  "checked": 38,
+  "working": 31,
+  "failed": 7,
+  "results": [
+    {
+      "id": "dmart-00005",
+      "name": "Nutraj California Almonds (Badam)",
+      "image": "https://cdn.dmart.in/images/products/DEC110004705xx30DEC24_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 100801
+    },
+    {
+      "id": "dmart-00002",
+      "name": "Premia Badam (Almonds)",
+      "image": "https://cdn.dmart.in/images/products/APR110000050xx15APR22_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 160984
+    },
+    {
+      "id": "dmart-00001",
+      "name": "Premia Badam (Almonds)",
+      "image": "https://cdn.dmart.in/images/products/APR110000401xx15APR22_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 137917
+    },
+    {
+      "id": "dmart-00009",
+      "name": "Rajma Kashmiri Red",
+      "image": "https://cdn.dmart.in/images/products/NOV110004126xx12NOV25vvG500g_3_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 117255
+    },
+    {
+      "id": "dmart-00011",
+      "name": "Tata Sampann Chana Dal",
+      "image": "https://cdn.dmart.in/images/products/SEP110000920xx1SEP26vvG500g_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 118575
+    },
+    {
+      "id": "dmart-00003",
+      "name": "Premia Badam (Almonds)",
+      "image": "https://cdn.dmart.in/images/products/APR110000051xx15APR22_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 292859
+    },
+    {
+      "id": "dmart-00007",
+      "name": "Chana Dal",
+      "image": "https://cdn.dmart.in/images/products/SEP110004074xx19SEP23_3_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 281326
+    },
+    {
+      "id": "dmart-00015",
+      "name": "Satyam Rajma Pink",
+      "image": "https://cdn.dmart.in/images/products/IWholePulses500gmSTYM3289xx205021_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 148269
+    },
+    {
+      "id": "dmart-00013",
+      "name": "Rajma Red Small",
+      "image": "https://cdn.dmart.in/images/products/NOV110004127xx12NOV25vvG500g_3_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 122094
+    },
+    {
+      "id": "dmart-00022",
+      "name": "Tata Sampann Organic Unpolished Rajma Red",
+      "image": "https://cdn.dmart.in/images/products/SEP110003203xx19SEP21_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 115663
+    },
+    {
+      "id": "dmart-00026",
+      "name": "Moong Dal",
+      "image": "https://cdn.dmart.in/images/products/SEP110004118xx19SEP23_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 298080
+    },
+    {
+      "id": "dmart-00027",
+      "name": "Moong Dal",
+      "image": "https://cdn.dmart.in/images/products/SEP110004117xx19SEP236_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 296678
+    },
+    {
+      "id": "dmart-00028",
+      "name": "Nutraj Cashews",
+      "image": "https://cdn.dmart.in/images/products/JUN110000420xx30JUN22_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 297922
+    },
+    {
+      "id": "dmart-00019",
+      "name": "Satyam Chana Dal",
+      "image": "https://cdn.dmart.in/images/products/IWholePulses500gmSTYM3277xx205021_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 138532
+    },
+    {
+      "id": "dmart-00032",
+      "name": "Premia Regular Kaju (Cashews) - 320",
+      "image": "https://cdn.dmart.in/images/products/AUG110000407xx18AUG26_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 288474
+    },
+    {
+      "id": "dmart-00035",
+      "name": "Tata Sampann Moong Dal",
+      "image": "https://cdn.dmart.in/images/products/AUG110000914xx21AUG26vvF1kg_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 282426
+    },
+    {
+      "id": "dmart-00029",
+      "name": "Nutraj Cashews",
+      "image": "https://cdn.dmart.in/images/products/NOV110000054xx12NOV21_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 354764
+    },
+    {
+      "id": "dmart-00037",
+      "name": "Kalbavi Cashews (Kaju)",
+      "image": "https://cdn.dmart.in/images/products/JUN110000420xx30JUN22_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 297922
+    },
+    {
+      "id": "dmart-00049",
+      "name": "Premia Kaju Special (Cashews)",
+      "image": "https://cdn.dmart.in/images/products/MAY110001242xx23MAY22_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 293546
+    },
+    {
+      "id": "dmart-00010",
+      "name": "Premia Mamra Badam",
+      "image": "https://cdn.dmart.in/images/products/MAY110003040xx24MAY22_3_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 302494
+    },
+    {
+      "id": "dmart-00089",
+      "name": "24 Mantra Organic Tur Dal",
+      "image": "https://cdn.dmart.in/images/products/FEB110001347xx4FEB26vvF1kg_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 275759
+    },
+    {
+      "id": "dmart-00092",
+      "name": "KMK Pista Magaz",
+      "image": "https://cdn.dmart.in/images/products/OCT110003026xx12OCT22_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 138739
+    },
+    {
+      "id": "dmart-00130",
+      "name": "Shamim Iranian Wet Dates",
+      "image": "https://cdn.dmart.in/images/products/AUG110005179xx14AUG25_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 290474
+    },
+    {
+      "id": "dmart-00116",
+      "name": "Emperor Dates Iranian Muzafati",
+      "image": "https://cdn.dmart.in/images/products/MAY270000991xx27MAY26vvG1unit_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 291579
+    },
+    {
+      "id": "dmart-00036",
+      "name": "Tata Sampann Moong Dal",
+      "image": "https://cdn.dmart.in/images/products/JUN110000921xx18JUN25vvG500g_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 292082
+    },
+    {
+      "id": "dmart-00572",
+      "name": "India Gate Basmati Rice - Classic",
+      "image": "https://cdn.dmart.in/images/products/NOV110000337xx17NOV25vvG_4_B.jpg",
+      "ok": false,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 0
+    },
+    {
+      "id": "dmart-00127",
+      "name": "Falcon Aqaba Dates",
+      "image": "https://cdn.dmart.in/images/products/MAR110004946xx24MAR25_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 97952
+    },
+    {
+      "id": "dmart-02149",
+      "name": "Agrawal's 420 Moong Bhajiya (Pakodi) Instant Mix",
+      "image": "https://cdn.dmart.in/images/products/NOV120005229xx7NOV21_4_B.jpg",
+      "ok": false,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 507
+    },
+    {
+      "id": "dmart-02366",
+      "name": "Knorr Manchow Veg Cup-A-Soup",
+      "image": "https://cdn.dmart.in/images/products/DEC120000341xx5DEC22_4_B.jpg",
+      "ok": false,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 0
+    },
+    {
+      "id": "dmart-00155",
+      "name": "Premia Kismis Black Seedless",
+      "image": "https://cdn.dmart.in/images/products/MAY110001320xx24MAY22_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 333136
+    },
+    {
+      "id": "dmart-00149",
+      "name": "Tata Sampann Masoor Dal",
+      "image": "https://cdn.dmart.in/images/products/JUN110000915xx18JUN25vvG500g_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 300552
+    },
+    {
+      "id": "dmart-04475",
+      "name": "Fogg Paradise Fragrant Body Spray for Women",
+      "image": "https://cdn.dmart.in/images/products/JUN140000182xx28JUN22_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 39009
+    },
+    {
+      "id": "dmart-03445",
+      "name": "Decoration 56 LED Bulb Light",
+      "image": "https://cdn.dmart.in/images/products/APR150008999xx16APR25_5_B.jpg",
+      "ok": false,
+      "status": 404,
+      "contentType": "application/xml; charset=UTF-8",
+      "bytes": 127
+    },
+    {
+      "id": "dmart-04916",
+      "name": "High Spirit 3 Layer Reusable Mask",
+      "image": "https://cdn.dmart.in/images/products/AUG150012521xx27AUG26vvG6u_5_B.jpg",
+      "ok": false,
+      "status": 404,
+      "contentType": "application/xml; charset=UTF-8",
+      "bytes": 127
+    },
+    {
+      "id": "dmart-04938",
+      "name": "Zebronics Pleasant Headphone",
+      "image": "https://cdn.dmart.in/images/products/AUG150012516xx27AUG26vvG4u_5_B.jpg",
+      "ok": false,
+      "status": 404,
+      "contentType": "application/xml; charset=UTF-8",
+      "bytes": 127
+    },
+    {
+      "id": "dmart-04943",
+      "name": "Artis Bt09 Portable Wireless Bluetooth Speaker",
+      "image": "https://cdn.dmart.in/images/products/AUG150012517xx27AUG26vvG4u_5_B.jpg",
+      "ok": false,
+      "status": 404,
+      "contentType": "application/xml; charset=UTF-8",
+      "bytes": 127
+    },
+    {
+      "id": "dmart-05076",
+      "name": "Parle Happy Happy Tutti Frutty Flavoured Cake",
+      "image": "https://cdn.dmart.in/images/products/DEC120001895xx17DEC24_4_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 61252
+    },
+    {
+      "id": "dmart-05075",
+      "name": "Pedigree Puppy Chicken Chunks Gravy Food",
+      "image": "https://cdn.dmart.in/images/products/AUG120000836xx14AUG24_5_B.jpg",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 310858
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿
+> gharlist@2.0.0 build
+> vite build
+
+[36mvite v7.3.6 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 1612 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                 [39m[1m[2m  0.59 kB[22m[1m[22m[2m Γöé gzip:  0.37 kB[22m
+[2mdist/[22m[35massets/index-BLPlGjS1.css  [39m[1m[2m 25.93 kB[22m[1m[22m[2m Γöé gzip:  5.83 kB[22m
+[2mdist/[22m[36massets/index-C7B-AZN4.js   [39m[1m[2m295.80 kB[22m[1m[22m[2m Γöé gzip: 92.68 kB[22m
+[32mΓ£ô built in 2.31s[39m

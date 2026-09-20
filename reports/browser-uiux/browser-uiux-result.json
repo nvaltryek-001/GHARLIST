@@ -1,0 +1,1423 @@
+{
+  "startedAt": "2026-09-20T07:37:52.659Z",
+  "browser": {
+    "name": "Chromium",
+    "headless": true
+  },
+  "summary": {
+    "pass": 247,
+    "warn": 4,
+    "fail": 0
+  },
+  "pages": [
+    {
+      "status": "PASS",
+      "name": "desktop /",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history",
+      "detail": "HTTP 200"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list",
+      "detail": "HTTP 200"
+    }
+  ],
+  "interactions": [
+    {
+      "status": "PASS",
+      "name": "desktop Products: product cards",
+      "detail": "40 visible"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop Products: search rendered",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "desktop Products: search interaction",
+      "detail": "40 matching cards"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop Products: Load More",
+      "detail": "40 → 80 cards"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop Products: Add button click",
+      "detail": ""
+    },
+    {
+      "status": "WARN",
+      "name": "desktop Report: items",
+      "detail": "No report items in current local state"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop Products: product cards",
+      "detail": "40 visible"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop Products: search rendered",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "laptop Products: search interaction",
+      "detail": "40 matching cards"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop Products: Load More",
+      "detail": "40 → 80 cards"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop Products: Add button click",
+      "detail": ""
+    },
+    {
+      "status": "WARN",
+      "name": "laptop Report: items",
+      "detail": "No report items in current local state"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet Products: product cards",
+      "detail": "40 visible"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet Products: search rendered",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "tablet Products: search interaction",
+      "detail": "40 matching cards"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet Products: Load More",
+      "detail": "40 → 80 cards"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet Products: Add button click",
+      "detail": ""
+    },
+    {
+      "status": "WARN",
+      "name": "tablet Report: items",
+      "detail": "No report items in current local state"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile Products: product cards",
+      "detail": "40 visible"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile Products: search rendered",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "name": "mobile Products: search interaction",
+      "detail": "40 matching cards"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile Products: Load More",
+      "detail": "40 → 80 cards"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile Products: Add button click",
+      "detail": ""
+    },
+    {
+      "status": "WARN",
+      "name": "mobile Report: items",
+      "detail": "No report items in current local state"
+    }
+  ],
+  "layout": [
+    {
+      "route": "/",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/products",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/voice",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/my-list",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/report",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/share",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/history",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/new-list",
+      "viewport": "desktop",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/products",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/voice",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/my-list",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/report",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/share",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/history",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/new-list",
+      "viewport": "laptop",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/products",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/voice",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/my-list",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/report",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/share",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/history",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": false,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/new-list",
+      "viewport": "tablet",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/products",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/voice",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/my-list",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/report",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/share",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/history",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history: horizontal overflow",
+      "detail": "none"
+    },
+    {
+      "route": "/new-list",
+      "viewport": "mobile",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "verticalOverflow": true,
+      "overflowing": []
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list: horizontal overflow",
+      "detail": "none"
+    }
+  ],
+  "runtime": [
+    {
+      "status": "PASS",
+      "name": "desktop /: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products: images",
+      "detail": "80 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /products: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /voice: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list: images",
+      "detail": "1 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /my-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /report: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /share: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /history: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list: images",
+      "detail": "40 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "desktop /new-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products: images",
+      "detail": "80 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /products: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /voice: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list: images",
+      "detail": "1 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /my-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /report: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /share: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /history: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list: images",
+      "detail": "40 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "laptop /new-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products: images",
+      "detail": "80 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /products: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /voice: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list: images",
+      "detail": "1 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /my-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /report: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /share: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /history: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list: images",
+      "detail": "40 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "tablet /new-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products: images",
+      "detail": "80 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /products: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /voice: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list: images",
+      "detail": "1 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /my-list: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /report: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /share: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history: images",
+      "detail": "0 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /history: failed requests",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list: images",
+      "detail": "40 checked"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list: console errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list: runtime errors",
+      "detail": "none"
+    },
+    {
+      "status": "PASS",
+      "name": "mobile /new-list: failed requests",
+      "detail": "none"
+    }
+  ],
+  "screenshots": [
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-products.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-voice.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-my-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-report.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-share.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-history.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\desktop-new-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-products.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-voice.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-my-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-report.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-share.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-history.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\laptop-new-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-products.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-voice.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-my-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-report.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-share.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-history.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\tablet-new-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-products.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-voice.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-my-list.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-report.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-share.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-history.png",
+    "N:\\GHARLIST\\reports\\browser-uiux\\mobile-new-list.png"
+  ],
+  "decision": "BROWSER_UI_HEALTHY"
+}

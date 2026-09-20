@@ -1,0 +1,2909 @@
+{
+  "totalRecords": 58,
+  "products": [
+    {
+      "buyable": "true",
+      "manufacturer": "DMart Premia",
+      "name": "DMart Premia Badam (Almonds)",
+      "seo_token_ntk": "premia-badam-american",
+      "numberOfskus": 4,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "110504",
+        "110506",
+        "120501",
+        "132501",
+        "133001",
+        "235506",
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "15084",
+      "targetUrl": "/pdp/15084",
+      "sKUs": [
+        {
+          "name": "DMart Premia Badam (Almonds) : 100 g",
+          "skuUniqueID": "11035",
+          "articleNumber": "110000050",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "202.00",
+          "priceSALE": "153.00",
+          "savePrice": "49.00",
+          "invStatus": "2",
+          "savingPercentage": 24,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "100 g",
+          "variantInfoTxtValue": "(₹ 1.53 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110000050xx15APR22",
+          "defaultRank": "400012035",
+          "productImageKey": "APR110000050xx15APR22",
+          "binaryImgCode": "6080",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        },
+        {
+          "name": "DMart Premia Badam (Almonds) : 200 g",
+          "skuUniqueID": "11036",
+          "articleNumber": "110000051",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "415.00",
+          "priceSALE": "243.00",
+          "savePrice": "172.00",
+          "invStatus": "2",
+          "savingPercentage": 41,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 1.22 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110000051xx15APR22",
+          "defaultRank": "300013036",
+          "productImageKey": "APR110000051xx15APR22",
+          "binaryImgCode": "4032",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        },
+        {
+          "name": "DMart Premia Badam (Almonds) : 500 g",
+          "skuUniqueID": "18001",
+          "articleNumber": "110000401",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "786.00",
+          "priceSALE": "585.00",
+          "savePrice": "201.00",
+          "invStatus": "2",
+          "savingPercentage": 25,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 1.17 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110000401xx15APR22",
+          "defaultRank": "200021001",
+          "productImageKey": "APR110000401xx15APR22",
+          "binaryImgCode": "6112",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        },
+        {
+          "name": "DMart Premia Badam : 1 kg",
+          "skuUniqueID": "857001",
+          "articleNumber": "110003152",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "1540.00",
+          "priceSALE": "1085.00",
+          "savePrice": "455.00",
+          "invStatus": "2",
+          "savingPercentage": 29,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "1 kg",
+          "variantInfoTxtValue": "(₹ 1.08 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "F/E/B/FEB110003152xx26FEB23",
+          "defaultRank": "100861001",
+          "productImageKey": "FEB110003152xx26FEB23",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "DMart Premia",
+      "name": "DMart Premia Mamra Badam",
+      "seo_token_ntk": "dmart-premia-mamra-badam",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "120501",
+        "235506",
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "820506",
+      "targetUrl": "/pdp/820506",
+      "sKUs": [
+        {
+          "name": "DMart Premia Mamra Badam : 200 g",
+          "skuUniqueID": "819503",
+          "articleNumber": "110003040",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "1128.00",
+          "priceSALE": "881.00",
+          "savePrice": "247.00",
+          "invStatus": "2",
+          "savingPercentage": 21,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 4.41 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/Y/MAY110003040xx24MAY22",
+          "defaultRank": "50919503",
+          "productImageKey": "MAY110003040xx24MAY22",
+          "binaryImgCode": "11776",
+          "imgCode": "3",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "DMart Premia",
+      "name": "DMart Premia Almonds (Badam) Salted",
+      "seo_token_ntk": "-premia-almonds-salted-palmonds0prem37xx20124",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "235506",
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1450525",
+      "targetUrl": "/pdp/1450525",
+      "sKUs": [
+        {
+          "name": "DMart Premia Almonds (Badam) Salted : 100 g",
+          "skuUniqueID": "1447005",
+          "articleNumber": "110004252",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "250.00",
+          "priceSALE": "115.00",
+          "savePrice": "135.00",
+          "invStatus": "2",
+          "savingPercentage": 54,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "100 g",
+          "variantInfoTxtValue": "(₹ 1.15 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg",
+            "original"
+          ],
+          "groceryType": "v",
+          "imageKey": "J/A/N/JAN110004252xx2JAN24",
+          "defaultRank": "101547005",
+          "productImageKey": "JAN110004252xx2JAN24",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "DMart Swaad",
+      "name": "DMart Swaad Badam",
+      "seo_token_ntk": "swaad-badam-palmonds0swaa25xx20124",
+      "numberOfskus": 2,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "235506",
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1450519",
+      "targetUrl": "/pdp/1450519",
+      "sKUs": [
+        {
+          "name": "DMart Swaad Badam : 500 g",
+          "skuUniqueID": "1208501",
+          "articleNumber": "110003643",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "677.00",
+          "priceSALE": "499.00",
+          "savePrice": "178.00",
+          "invStatus": "2",
+          "savingPercentage": 26,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 1.00 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/R/MAR110003643xx22MAR24",
+          "defaultRank": "201209501",
+          "productImageKey": "MAR110003643xx22MAR24",
+          "binaryImgCode": "5632",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        },
+        {
+          "name": "DMart Swaad Badam : 1 kg",
+          "skuUniqueID": "1447001",
+          "articleNumber": "110004248",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "1337.00",
+          "priceSALE": "975.00",
+          "savePrice": "362.00",
+          "invStatus": "2",
+          "savingPercentage": 27,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "1 kg",
+          "variantInfoTxtValue": "",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/R/MAR110003643xx22MAR24",
+          "defaultRank": "101449001",
+          "productImageKey": "MAR110003643xx22MAR24",
+          "binaryImgCode": "5632",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "ProV",
+      "name": "Prov Select California Independence Almond",
+      "seo_token_ntk": "prov-california-independence-alomond",
+      "numberOfskus": 3,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1809618",
+      "targetUrl": "/pdp/1809618",
+      "sKUs": [
+        {
+          "name": "Prov California Independence Almonds : 200 g",
+          "skuUniqueID": "1810523",
+          "articleNumber": "110005276",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "369.00",
+          "priceSALE": "251.00",
+          "savePrice": "118.00",
+          "invStatus": "2",
+          "savingPercentage": 31,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 1.25 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "S/E/P/SEP110005276xx28SEP25",
+          "defaultRank": "31811523",
+          "productImageKey": "SEP110005276xx28SEP25",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        },
+        {
+          "name": "ProV Independence California Almonds (Badam) : 500 g",
+          "skuUniqueID": "1281593",
+          "articleNumber": "110003811",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "890.00",
+          "priceSALE": "524.00",
+          "savePrice": "366.00",
+          "invStatus": "2",
+          "savingPercentage": 41,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 1.05 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110003811xx9APR25",
+          "defaultRank": "21283593",
+          "productImageKey": "APR110003811xx9APR25",
+          "binaryImgCode": "3072",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        },
+        {
+          "name": "ProV Select California Almonds (Badam) : 1 kg",
+          "skuUniqueID": "1128016",
+          "articleNumber": "110003530",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "1800.00",
+          "priceSALE": "1059.00",
+          "savePrice": "741.00",
+          "invStatus": "2",
+          "savingPercentage": 41,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "1 kg",
+          "variantInfoTxtValue": "(₹ 1.06 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110003530xx9APR25",
+          "defaultRank": "11131016",
+          "productImageKey": "APR110003530xx9APR25",
+          "binaryImgCode": "3072",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Tata Sampann",
+      "name": "Tata Sampann California Almonds (Badam) Whole",
+      "seo_token_ntk": "tata-sampann-california-almonds-whole",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1679598",
+      "targetUrl": "/pdp/1679598",
+      "sKUs": [
+        {
+          "name": "Tata Sampann California Almonds (Badam) Whole : 200 g",
+          "skuUniqueID": "1675023",
+          "articleNumber": "110004705",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "360.00",
+          "priceSALE": "226.00",
+          "savePrice": "134.00",
+          "invStatus": "2",
+          "savingPercentage": 37,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 1.13 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "D/E/C/DEC110004705xx30DEC24",
+          "defaultRank": "101775023",
+          "productImageKey": "DEC110004705xx30DEC24",
+          "binaryImgCode": "3072",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Bazana",
+      "name": "Bazana California Almonds",
+      "seo_token_ntk": "bazana-california-almonds",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1809623",
+      "targetUrl": "/pdp/1809623",
+      "sKUs": [
+        {
+          "name": "Bazana California Almonds : 500 g",
+          "skuUniqueID": "1810530",
+          "articleNumber": "110005283",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "850.00",
+          "priceSALE": "489.00",
+          "savePrice": "361.00",
+          "invStatus": "2",
+          "savingPercentage": 42,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 0.98 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "F/E/B/FEB110005283xx29FEB26vvF500g",
+          "defaultRank": "101910530",
+          "productImageKey": "FEB110005283xx29FEB26vvF500g",
+          "binaryImgCode": "3840",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "ProV",
+      "name": "Prov Regal Jumbo Almonds (Badam)",
+      "seo_token_ntk": "prov-regal-jumbo-almonds",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1749522",
+      "targetUrl": "/pdp/1749522",
+      "sKUs": [
+        {
+          "name": "Prov Regal Jumbo Almonds (Badam) : 500 g",
+          "skuUniqueID": "1748521",
+          "articleNumber": "110005062",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "1100.00",
+          "priceSALE": "659.00",
+          "savePrice": "441.00",
+          "invStatus": "2",
+          "savingPercentage": 40,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 1.32 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "S/E/P/SEP110005062xx7SEP25",
+          "defaultRank": "101848521",
+          "productImageKey": "SEP110005062xx7SEP25",
+          "binaryImgCode": "3072",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "ProV",
+      "name": "Prov California Alomond",
+      "seo_token_ntk": "prov-california-alomond",
+      "numberOfskus": 2,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1809617",
+      "targetUrl": "/pdp/1809617",
+      "sKUs": [
+        {
+          "name": "Prov California Alomond : 200 g",
+          "skuUniqueID": "1810522",
+          "articleNumber": "110005275",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "390.00",
+          "priceSALE": "262.00",
+          "savePrice": "128.00",
+          "invStatus": "2",
+          "savingPercentage": 32,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 1.31 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "S/E/P/SEP110005275xx28SEP25",
+          "defaultRank": "11811522",
+          "productImageKey": "SEP110005275xx28SEP25",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false",
+          "hasAlternative": true
+        },
+        {
+          "name": "ProV Select California Almonds (Badam) : 500 g",
+          "skuUniqueID": "1128014",
+          "articleNumber": "110003529",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "960.00",
+          "priceSALE": "609.00",
+          "savePrice": "351.00",
+          "invStatus": "2",
+          "savingPercentage": 36,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 g",
+          "variantInfoTxtValue": "(₹ 1.22 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "A/P/R/APR110003529xx25APR25",
+          "defaultRank": "21130014",
+          "productImageKey": "APR110003529xx25APR25",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Raw Pressery",
+      "name": "Raw Pressery Almond Milk Plain (Unsweetened)",
+      "seo_token_ntk": "raw-pressery-almond-milk-plain",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93349"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Dairy & Beverages"
+        },
+        {
+          "level": "L2",
+          "name": "Dairy"
+        },
+        {
+          "level": "L3",
+          "name": "Milk"
+        }
+      ],
+      "productId": "773015",
+      "targetUrl": "/pdp/773015",
+      "sKUs": [
+        {
+          "name": "Raw Pressery Almond Milk Plain (Unsweetened) : 1 L",
+          "skuUniqueID": "773502",
+          "articleNumber": "130001345",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "289.00",
+          "priceSALE": "219.00",
+          "savePrice": "70.00",
+          "invStatus": "2",
+          "savingPercentage": 24,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "1 L",
+          "variantInfoTxtValue": "",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "N/O/V/NOV130001345xx14NOV24",
+          "defaultRank": "50873502",
+          "productImageKey": "NOV130001345xx14NOV24",
+          "binaryImgCode": "3968",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "The Baker's Dozen",
+      "name": "The Baker's Dozen Chocolate Almond Cake",
+      "seo_token_ntk": "the-bakers-dozen-chocolate-almond-cake",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93290"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Packaged Food"
+        },
+        {
+          "level": "L2",
+          "name": "Bakery"
+        },
+        {
+          "level": "L3",
+          "name": "Cakes"
+        }
+      ],
+      "productId": "1336011",
+      "targetUrl": "/pdp/1336011",
+      "sKUs": [
+        {
+          "name": "The Baker's Dozen Chocolate Almond Cake : 150 g",
+          "skuUniqueID": "1335005",
+          "articleNumber": "120006526",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "185.00",
+          "priceSALE": "153.00",
+          "savePrice": "32.00",
+          "invStatus": "2",
+          "savingPercentage": 17,
+          "maxQuantity": "12",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "150 g",
+          "variantInfoTxtValue": "(₹ 1.02 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "J/U/N/JUN120006526xx8JUN23",
+          "defaultRank": "101435005",
+          "productImageKey": "JUN120006526xx8JUN23",
+          "binaryImgCode": "3840",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Hair & Care",
+      "name": "Hair & Care Almond Vit E & B5 Non-Sticky Hair Oil",
+      "seo_token_ntk": "hair-&-care-almond-vit-e-b5-non-sticky-hair-oil",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "132031",
+        "93262"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Personal Care & Beauty"
+        },
+        {
+          "level": "L2",
+          "name": "Hair Care"
+        },
+        {
+          "level": "L3",
+          "name": "Hair Oils"
+        }
+      ],
+      "productId": "732585",
+      "targetUrl": "/pdp/732585",
+      "sKUs": [
+        {
+          "name": "Hair & Care Almond Vit E & B5 Non-Sticky Hair Oil : 500 ml",
+          "skuUniqueID": "731272",
+          "articleNumber": "140002035",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "240.00",
+          "priceSALE": "145.00",
+          "savePrice": "95.00",
+          "invStatus": "2",
+          "savingPercentage": 39,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "500 ml",
+          "variantInfoTxtValue": "(₹ 0.29 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "M/A/R/MAR140002035xx4MAR26vvG500ml",
+          "defaultRank": "50831272",
+          "productImageKey": "MAR140002035xx4MAR26vvG500ml",
+          "binaryImgCode": "5888",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Bajaj",
+      "name": "Bajaj Almond Drop Hair Oil",
+      "seo_token_ntk": "bajaj-almond-hair-oil-phairoil0baja7xx160520",
+      "numberOfskus": 3,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "104502",
+        "93262"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Personal Care & Beauty"
+        },
+        {
+          "level": "L2",
+          "name": "Hair Care"
+        },
+        {
+          "level": "L3",
+          "name": "Hair Oils"
+        }
+      ],
+      "productId": "720332",
+      "targetUrl": "/pdp/720332",
+      "sKUs": [
+        {
+          "name": "Bajaj Almond Drops Hair Oil : 625 ml",
+          "skuUniqueID": "809004",
+          "articleNumber": "140003229",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "540.00",
+          "priceSALE": "403.00",
+          "savePrice": "137.00",
+          "invStatus": "2",
+          "savingPercentage": 25,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "625 ml",
+          "variantInfoTxtValue": "(₹ 0.64 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "M/A/Y/MAY140003229XX29MAY26",
+          "defaultRank": "100810004",
+          "productImageKey": "MAY140003229XX29MAY26",
+          "binaryImgCode": "3968",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        },
+        {
+          "name": "Bajaj Almond Drops Hair Oil : 280 ml",
+          "skuUniqueID": "12425",
+          "articleNumber": "140000357",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "265.00",
+          "priceSALE": "223.00",
+          "savePrice": "42.00",
+          "invStatus": "2",
+          "savingPercentage": 15,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "280 ml",
+          "variantInfoTxtValue": "(₹ 0.80 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "F/E/B/FEB140000357xx14FEB22",
+          "defaultRank": "200014425",
+          "productImageKey": "FEB140000357xx14FEB22",
+          "binaryImgCode": "3584",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        },
+        {
+          "name": "Bajaj Almond Hair Oil : 95 ml",
+          "skuUniqueID": "722028",
+          "articleNumber": "140001843",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "89.00",
+          "priceSALE": "83.00",
+          "savePrice": "6.00",
+          "invStatus": "2",
+          "savingPercentage": 6,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "95 ml",
+          "variantInfoTxtValue": "(₹ 0.87 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "M/A/R/MAR140001843xx7MAR22",
+          "defaultRank": "400726028",
+          "productImageKey": "MAR140001843xx7MAR22",
+          "binaryImgCode": "3968",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Dabur",
+      "name": "Dabur Almond Hair Oil",
+      "seo_token_ntk": "dabur--almond--hair--oil",
+      "numberOfskus": 2,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "104502",
+        "110005",
+        "110007",
+        "110008",
+        "110009",
+        "93262",
+        "93584"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Personal Care & Beauty"
+        },
+        {
+          "level": "L2",
+          "name": "Hair Care"
+        },
+        {
+          "level": "L3",
+          "name": "Hair Oils"
+        }
+      ],
+      "productId": "78030",
+      "targetUrl": "/pdp/78030",
+      "sKUs": [
+        {
+          "name": "Dabur Almond Hair Oil : 200 ml",
+          "skuUniqueID": "731266",
+          "articleNumber": "140002029",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "230.00",
+          "priceSALE": "122.00",
+          "savePrice": "108.00",
+          "invStatus": "2",
+          "savingPercentage": 46,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 ml",
+          "variantInfoTxtValue": "(₹ 0.61 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "J/U/N/JUN140002029xx14JUN24",
+          "defaultRank": "300733266",
+          "productImageKey": "JUN140002029xx14JUN24",
+          "binaryImgCode": "4064",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "N",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        },
+        {
+          "name": "Dabur Almond Hair Oil : 485 ml",
+          "skuUniqueID": "75001",
+          "articleNumber": "140000806",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "375.00",
+          "priceSALE": "191.00",
+          "savePrice": "184.00",
+          "invStatus": "2",
+          "savingPercentage": 49,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "485 ml",
+          "variantInfoTxtValue": "(₹ 0.39 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [],
+          "groceryType": "",
+          "imageKey": "M/A/Y/MAY140000806xx27MAY26vvG485ml",
+          "defaultRank": "100078001",
+          "productImageKey": "MAY140000806xx27MAY26vvG485ml",
+          "binaryImgCode": "4064",
+          "imgCode": "5",
+          "offers": "Free : 95 ml",
+          "usp": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Hamdard",
+      "name": "Hamdard Roghan Badam Shirin Sweet Almond Oil",
+      "seo_token_ntk": "hamdard-roghan-badam-shirin-sweet-almond-oil-phlthsupl0hamd1xx51220",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "138009"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Personal Care & Beauty"
+        },
+        {
+          "level": "L2",
+          "name": "Health & Wellness"
+        },
+        {
+          "level": "L3",
+          "name": "Other Healthy Alternatives"
+        }
+      ],
+      "productId": "808533",
+      "targetUrl": "/pdp/808533",
+      "sKUs": [
+        {
+          "name": "Hamdard Roghan Badam Shirin Sweet Almond Oil : 50 ml",
+          "skuUniqueID": "796181",
+          "articleNumber": "120004117",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "280.00",
+          "priceSALE": "199.00",
+          "savePrice": "81.00",
+          "invStatus": "2",
+          "savingPercentage": 28,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "50 ml",
+          "variantInfoTxtValue": "(₹ 3.98 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "L/H/L/LHLTHSUPL50mlHamd2xx8521400",
+          "defaultRank": "50896181",
+          "productImageKey": "LHLTHSUPL50mlHamd2xx8521400",
+          "binaryImgCode": "3968",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Hamdard",
+      "name": "Hamdard Roghan Badam Shirin Sweet Almond Oil",
+      "seo_token_ntk": "hamdard-roghan-badam-oil-pdigecare0hamd41xx90520",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "212524",
+        "93285"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Personal Care & Beauty"
+        },
+        {
+          "level": "L2",
+          "name": "Health & Wellness"
+        },
+        {
+          "level": "L3",
+          "name": "Digestive Care"
+        }
+      ],
+      "productId": "714767",
+      "targetUrl": "/pdp/714767",
+      "sKUs": [
+        {
+          "name": "Hamdard Roghan Badam Shirin Sweet Almond Oil : 100 ml",
+          "skuUniqueID": "713773",
+          "articleNumber": "140001774",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "530.00",
+          "priceSALE": "475.00",
+          "savePrice": "55.00",
+          "invStatus": "2",
+          "savingPercentage": 10,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "100 ml",
+          "variantInfoTxtValue": "(₹ 4.75 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/Y/MAY140001774xx20MAY26vvG100ml",
+          "defaultRank": "50813773",
+          "productImageKey": "MAY140001774xx20MAY26vvG100ml",
+          "binaryImgCode": "3072",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "A",
+          "isProductNotifiable": "false"
+        }
+      ],
+      "templatetype": "Grocery"
+    }
+  ],
+  "oosProducts": [
+    {
+      "buyable": "true",
+      "manufacturer": "DMart Premia",
+      "name": "DMart Premia Almonds (Badam) Smoked",
+      "seo_token_ntk": "-premia-almonds-smoked-palmonds0prem39xx20124",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "235506",
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "1450526",
+      "targetUrl": "/pdp/1450526",
+      "sKUs": [
+        {
+          "name": "DMart Premia Almonds (Badam) Smoked : 100 g",
+          "skuUniqueID": "1447006",
+          "articleNumber": "110004253",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "250.00",
+          "priceSALE": "115.00",
+          "savePrice": "135.00",
+          "invStatus": "0",
+          "savingPercentage": 54,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "100 g",
+          "variantInfoTxtValue": "(₹ 1.15 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg",
+            "original"
+          ],
+          "groceryType": "v",
+          "imageKey": "J/A/N/JAN110004253xx2JAN24",
+          "defaultRank": "101547006",
+          "productImageKey": "JAN110004253xx2JAN24",
+          "binaryImgCode": "5120",
+          "imgCode": "4",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "OOS",
+          "isProductNotifiable": "true"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Kanji Manji Kothari",
+      "name": "KMK Almond American (Badam)",
+      "seo_token_ntk": "kmk-almond-american",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93465"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Grocery"
+        },
+        {
+          "level": "L2",
+          "name": "Dry Fruits"
+        },
+        {
+          "level": "L3",
+          "name": "Almonds"
+        }
+      ],
+      "productId": "612055",
+      "targetUrl": "/pdp/612055",
+      "sKUs": [
+        {
+          "name": "KMK Almond American (Badam) : 200 g",
+          "skuUniqueID": "611501",
+          "articleNumber": "110001310",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "365.00",
+          "priceSALE": "275.00",
+          "savePrice": "90.00",
+          "invStatus": "0",
+          "savingPercentage": 24,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 1.38 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "O/C/T/OCT110001310xx12OCT22",
+          "defaultRank": "50711501",
+          "productImageKey": "OCT110001310xx12OCT22",
+          "binaryImgCode": "3074",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "OOS",
+          "isProductNotifiable": "true"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Amul",
+      "name": "Amul Almondo Chocolate Coated Almonds",
+      "seo_token_ntk": "amul-almondo-chocolate-coated-almonds",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "138014",
+        "93652"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Packaged Food"
+        },
+        {
+          "level": "L2",
+          "name": "Chocolates & Candies"
+        },
+        {
+          "level": "L3",
+          "name": "Chocolates"
+        }
+      ],
+      "productId": "797564",
+      "targetUrl": "/pdp/797564",
+      "sKUs": [
+        {
+          "name": "Amul Almondo Chocolate Coated Almonds : 200 g",
+          "skuUniqueID": "793012",
+          "articleNumber": "120004056",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "210.00",
+          "priceSALE": "179.00",
+          "savePrice": "31.00",
+          "invStatus": "0",
+          "savingPercentage": 14,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "200 g",
+          "variantInfoTxtValue": "(₹ 0.90 / 1 g)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/Y/MAY120004056xx3MAY24",
+          "defaultRank": "50893012",
+          "productImageKey": "MAY120004056xx3MAY24",
+          "binaryImgCode": "4088",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "OOS",
+          "isProductNotifiable": "true"
+        }
+      ],
+      "templatetype": "Grocery"
+    },
+    {
+      "buyable": "true",
+      "manufacturer": "Alt Co",
+      "name": "Alt Co Almond Drink (Unsweetened)",
+      "seo_token_ntk": "alt-co-almond-drink-(unsweetened)-pmilktetra4xx20325",
+      "numberOfskus": 1,
+      "seo_meta_desc": "",
+      "seo_meta_title": "",
+      "availabilityType": "A",
+      "parentCategoryIds": [
+        "93349"
+      ],
+      "isItemShareable": "true",
+      "PRODUCT_SKUS_SPLIT": "false",
+      "announcementTags": [],
+      "productAnnouncement": [],
+      "categoryMap": [
+        {
+          "level": "L1",
+          "name": "Dairy & Beverages"
+        },
+        {
+          "level": "L2",
+          "name": "Dairy"
+        },
+        {
+          "level": "L3",
+          "name": "Milk"
+        }
+      ],
+      "productId": "1704127",
+      "targetUrl": "/pdp/1704127",
+      "sKUs": [
+        {
+          "name": "Alt Co Almond Drink (Unsweetened) : 1 L",
+          "skuUniqueID": "1698550",
+          "articleNumber": "130002461",
+          "buyable": "true",
+          "availabilityType": "A",
+          "priceMRP": "266.00",
+          "priceSALE": "199.00",
+          "savePrice": "67.00",
+          "invStatus": "0",
+          "savingPercentage": 25,
+          "maxQuantity": "99",
+          "totalVolume": "",
+          "variantText": "volume",
+          "variantTextValue": "1 L",
+          "variantInfoTxtValue": "(₹ 0.20 / 1 ml)",
+          "variantType": "textOnly",
+          "variantImgValue": "",
+          "tags": [
+            "veg"
+          ],
+          "groceryType": "v",
+          "imageKey": "M/A/R/MAR130002461xx2MAR25",
+          "defaultRank": "101798550",
+          "productImageKey": "MAR130002461xx2MAR25",
+          "binaryImgCode": "4064",
+          "imgCode": "5",
+          "usp": "",
+          "offers": "",
+          "isPriceEditAllowed": "Y",
+          "bulk": "N",
+          "bulkQuantity": "",
+          "bulkThreshold": "",
+          "minBulkQuantity": "",
+          "defaultVariant": "Y",
+          "invType": "OOS",
+          "isProductNotifiable": "true"
+        }
+      ],
+      "templatetype": "Grocery"
+    }
+  ],
+  "oosPosition": "5",
+  "spellcheck": [],
+  "sortFilterData": {
+    "filterData": [
+      {
+        "filterName": "Brand",
+        "filterQueryId": "filter_1",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Amul",
+            "value": "brand_uFilter:%22Amul%22",
+            "count": "5",
+            "image": ""
+          },
+          {
+            "name": "DMart Premia",
+            "value": "brand_uFilter:%22DMart%20Premia%22",
+            "count": "4",
+            "image": ""
+          },
+          {
+            "name": "Joy",
+            "value": "brand_uFilter:%22Joy%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Lakme",
+            "value": "brand_uFilter:%22Lakme%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "ProV",
+            "value": "brand_uFilter:%22ProV%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Cadbury Dairy Milk Silk",
+            "value": "brand_uFilter:%22Cadbury%20Dairy%20Milk%20Silk%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Hamdard",
+            "value": "brand_uFilter:%22Hamdard%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Hershey's",
+            "value": "brand_uFilter:%22Hershey's%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Alt Co",
+            "value": "brand_uFilter:%22Alt%20Co%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Bajaj",
+            "value": "brand_uFilter:%22Bajaj%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Barquillo",
+            "value": "brand_uFilter:%22Barquillo%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Bazana",
+            "value": "brand_uFilter:%22Bazana%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Boost",
+            "value": "brand_uFilter:%22Boost%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Britannia Good Day",
+            "value": "brand_uFilter:%22Britannia%20Good%20Day%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Chicco",
+            "value": "brand_uFilter:%22Chicco%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Chitale Dairy",
+            "value": "brand_uFilter:%22Chitale%20Dairy%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "DMart Swaad",
+            "value": "brand_uFilter:%22DMart%20Swaad%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Dabur",
+            "value": "brand_uFilter:%22Dabur%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Godrej No.1",
+            "value": "brand_uFilter:%22Godrej%20No.1%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Hair & Care",
+            "value": "brand_uFilter:%22Hair%20%26%20Care%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Haldiram's",
+            "value": "brand_uFilter:%22Haldiram's%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Jawai",
+            "value": "brand_uFilter:%22Jawai%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Jo",
+            "value": "brand_uFilter:%22Jo%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Kanji Manji Kothari",
+            "value": "brand_uFilter:%22Kanji%20Manji%20Kothari%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Kellogg's",
+            "value": "brand_uFilter:%22Kellogg's%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Lindt",
+            "value": "brand_uFilter:%22Lindt%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Lotus Herbals",
+            "value": "brand_uFilter:%22Lotus%20Herbals%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Lux",
+            "value": "brand_uFilter:%22Lux%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Nutri Delite",
+            "value": "brand_uFilter:%22Nutri%20Delite%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Parachute",
+            "value": "brand_uFilter:%22Parachute%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Raw Pressery",
+            "value": "brand_uFilter:%22Raw%20Pressery%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Rite Bite",
+            "value": "brand_uFilter:%22Rite%20Bite%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Santoor",
+            "value": "brand_uFilter:%22Santoor%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Sunfeast",
+            "value": "brand_uFilter:%22Sunfeast%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Sunfeast Mom's Magic",
+            "value": "brand_uFilter:%22Sunfeast%20Mom's%20Magic%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Tata Sampann",
+            "value": "brand_uFilter:%22Tata%20Sampann%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "The Baker's Dozen",
+            "value": "brand_uFilter:%22The%20Baker's%20Dozen%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Unibic",
+            "value": "brand_uFilter:%22Unibic%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "VLCC",
+            "value": "brand_uFilter:%22VLCC%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Yogabar",
+            "value": "brand_uFilter:%22Yogabar%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "mCaffeine",
+            "value": "brand_uFilter:%22mCaffeine%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Colour",
+        "filterQueryId": "filter_2",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Melon",
+            "value": "v_DefiningAttribute_Colour_uFilter:%22Melon%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Quantity",
+        "filterQueryId": "filter_3",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "1 U",
+            "value": "v_DefiningAttribute_Quantity_uFilter:%221%20U%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Volume",
+        "filterQueryId": "filter_4",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "1 L",
+            "value": "v_DefiningAttribute_Volume_uFilter:%221%20L%22",
+            "count": "5",
+            "image": ""
+          },
+          {
+            "name": "200 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22200%20ml%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "100 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22100%20ml%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "180 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22180%20ml%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "500 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22500%20ml%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "2 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%222%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "250 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22250%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "280 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22280%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "300 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22300%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "350 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22350%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "485 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22485%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "50 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%2250%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "625 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22625%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "750 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%22750%20ml%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "95 ml",
+            "value": "v_DefiningAttribute_Volume_uFilter:%2295%20ml%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Weight",
+        "filterQueryId": "filter_5",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "500 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22500%20g%22",
+            "count": "8",
+            "image": ""
+          },
+          {
+            "name": "200 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22200%20g%22",
+            "count": "7",
+            "image": ""
+          },
+          {
+            "name": "100 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22100%20g%22",
+            "count": "5",
+            "image": ""
+          },
+          {
+            "name": "1 kg",
+            "value": "v_DefiningAttribute_Weight_uFilter:%221%20kg%22",
+            "count": "4",
+            "image": ""
+          },
+          {
+            "name": "150 g x 3 U",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22150%20g%20x%203%20U%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "100 g x 4 U",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22100%20g%20x%204%20U%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "134 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22134%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "150 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22150%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "150 g x 4 U",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22150%20g%20x%204%20U%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "20 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2220%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "30 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2230%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "34 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2234%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "350 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22350%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "400 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22400%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "450 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22450%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "485 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22485%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "50 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2250%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "510 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22510%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "52 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2252%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "526 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%22526%20g%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "90 g",
+            "value": "v_DefiningAttribute_Weight_uFilter:%2290%20g%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Fragrance",
+        "filterQueryId": "filter_6",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Almond & Rose",
+            "value": "v_Fragrance_uFilter:%22Almond%20%26%20Rose%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Coffee",
+            "value": "v_Fragrance_uFilter:%22Coffee%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Ingredients",
+        "filterQueryId": "filter_7",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Almond & Murumuru Butter",
+            "value": "v_Ingredients_uFilter:%22Almond%20%26%20Murumuru%20Butter%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Almonds|Dates|Pea protein|Cocoa mass|cocoa solids|cocoa butter|Coffee powder",
+            "value": "v_Ingredients_uFilter:%22Almonds%7CDates%7CPea%20protein%7CCocoa%20mass%7Ccocoa%20solids%7Ccocoa%20butter%7CCoffee%20powder%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Walnuts",
+            "value": "v_Ingredients_uFilter:%22Walnuts%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Flavours",
+        "filterQueryId": "filter_8",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Nutty",
+            "value": "v_Flavours_uFilter:%22Nutty%22",
+            "count": "5",
+            "image": ""
+          },
+          {
+            "name": "Almond",
+            "value": "v_Flavours_uFilter:%22Almond%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Badam Pista",
+            "value": "v_Flavours_uFilter:%22Badam%20Pista%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Almond & Honey",
+            "value": "v_Flavours_uFilter:%22Almond%20%26%20Honey%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Almonds & Cranberries",
+            "value": "v_Flavours_uFilter:%22Almonds%20%26%20Cranberries%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Badam",
+            "value": "v_Flavours_uFilter:%22Badam%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Cashew & Almond",
+            "value": "v_Flavours_uFilter:%22Cashew%20%26%20Almond%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Choco Almond",
+            "value": "v_Flavours_uFilter:%22Choco%20Almond%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Choco Almond & Kesar Badam",
+            "value": "v_Flavours_uFilter:%22Choco%20Almond%20%26%20Kesar%20Badam%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Chocolate",
+            "value": "v_Flavours_uFilter:%22Chocolate%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Mocha almond",
+            "value": "v_Flavours_uFilter:%22Mocha%20almond%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Pista Almond",
+            "value": "v_Flavours_uFilter:%22Pista%20Almond%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Roasted Almond",
+            "value": "v_Flavours_uFilter:%22Roasted%20Almond%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Salted",
+            "value": "v_Flavours_uFilter:%22Salted%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Smoked",
+            "value": "v_Flavours_uFilter:%22Smoked%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Unsweetend",
+            "value": "v_Flavours_uFilter:%22Unsweetend%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Properties",
+        "filterQueryId": "filter_9",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Almonds",
+            "value": "v_Properties_uFilter:%22Almonds%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Roasted",
+            "value": "v_Properties_uFilter:%22Roasted%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Type",
+        "filterQueryId": "filter_10",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Almond Hair Oil",
+            "value": "v_AttrType_uFilter:%22Almond%20Hair%20Oil%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Lotion",
+            "value": "v_AttrType_uFilter:%22Lotion%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Beauty Soaps",
+            "value": "v_AttrType_uFilter:%22Beauty%20Soaps%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Family Pack Ice Creams",
+            "value": "v_AttrType_uFilter:%22Family%20Pack%20Ice%20Creams%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Almond Milk",
+            "value": "v_AttrType_uFilter:%22Almond%20Milk%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Cream Soaps",
+            "value": "v_AttrType_uFilter:%22Cream%20Soaps%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Matte Finish",
+            "value": "v_AttrType_uFilter:%22Matte%20Finish%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Protein Bar",
+            "value": "v_AttrType_uFilter:%22Protein%20Bar%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Category",
+        "filterQueryId": "filter_11",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "Almonds",
+            "value": "v_Category_uFilter:%22Almonds%22",
+            "count": "9",
+            "image": ""
+          },
+          {
+            "name": "Milk Chocolates",
+            "value": "v_Category_uFilter:%22Milk%20Chocolates%22",
+            "count": "5",
+            "image": ""
+          },
+          {
+            "name": "Bath Soaps & Bars",
+            "value": "v_Category_uFilter:%22Bath%20Soaps%20%26%20Bars%22",
+            "count": "4",
+            "image": ""
+          },
+          {
+            "name": "Body Lotions",
+            "value": "v_Category_uFilter:%22Body%20Lotions%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Hair Oil",
+            "value": "v_Category_uFilter:%22Hair%20Oil%22",
+            "count": "3",
+            "image": ""
+          },
+          {
+            "name": "Cookies",
+            "value": "v_Category_uFilter:%22Cookies%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Ice Creams",
+            "value": "v_Category_uFilter:%22Ice%20Creams%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Shrikhand",
+            "value": "v_Category_uFilter:%22Shrikhand%22",
+            "count": "2",
+            "image": ""
+          },
+          {
+            "name": "Almond Milk",
+            "value": "v_Category_uFilter:%22Almond%20Milk%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Baby Lotion",
+            "value": "v_Category_uFilter:%22Baby%20Lotion%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Badam Halwa",
+            "value": "v_Category_uFilter:%22Badam%20Halwa%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Beverages",
+            "value": "v_Category_uFilter:%22Beverages%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Body Wash",
+            "value": "v_Category_uFilter:%22Body%20Wash%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Cakes",
+            "value": "v_Category_uFilter:%22Cakes%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Cashew Badam Cookies",
+            "value": "v_Category_uFilter:%22Cashew%20Badam%20Cookies%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Chocolate Spreads",
+            "value": "v_Category_uFilter:%22Chocolate%20Spreads%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Compacts",
+            "value": "v_Category_uFilter:%22Compacts%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Concealers",
+            "value": "v_Category_uFilter:%22Concealers%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Corn Flakes",
+            "value": "v_Category_uFilter:%22Corn%20Flakes%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Face Creams",
+            "value": "v_Category_uFilter:%22Face%20Creams%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Flavoured Milk",
+            "value": "v_Category_uFilter:%22Flavoured%20Milk%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Granola",
+            "value": "v_Category_uFilter:%22Granola%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Hair Serums",
+            "value": "v_Category_uFilter:%22Hair%20Serums%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Health Foods",
+            "value": "v_Category_uFilter:%22Health%20Foods%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Health Supplements",
+            "value": "v_Category_uFilter:%22Health%20Supplements%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Mamra Almonds",
+            "value": "v_Category_uFilter:%22Mamra%20Almonds%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Milk Masala",
+            "value": "v_Category_uFilter:%22Milk%20Masala%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Milkshakes",
+            "value": "v_Category_uFilter:%22Milkshakes%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Plain Chocolate",
+            "value": "v_Category_uFilter:%22Plain%20Chocolate%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Protein Bars",
+            "value": "v_Category_uFilter:%22Protein%20Bars%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Roasted Almond Chocolate",
+            "value": "v_Category_uFilter:%22Roasted%20Almond%20Chocolate%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Skin Protection",
+            "value": "v_Category_uFilter:%22Skin%20Protection%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Country Of Origin",
+        "filterQueryId": "filter_12",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "India",
+            "value": "v_Country_Of_Origin_uFilter:%22India%22",
+            "count": "54",
+            "image": ""
+          },
+          {
+            "name": "Malaysia",
+            "value": "v_Country_Of_Origin_uFilter:%22Malaysia%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "Switzerland",
+            "value": "v_Country_Of_Origin_uFilter:%22Switzerland%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "UAE",
+            "value": "v_Country_Of_Origin_uFilter:%22UAE%22",
+            "count": "1",
+            "image": ""
+          },
+          {
+            "name": "USA",
+            "value": "v_Country_Of_Origin_uFilter:%22USA%22",
+            "count": "1",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "filterName": "Availability",
+        "filterQueryId": "uInventoryFilter",
+        "filterType": "text",
+        "filterOptions": [
+          {
+            "name": "In stock",
+            "value": "1",
+            "count": "",
+            "image": ""
+          }
+        ]
+      }
+    ],
+    "sortData": {
+      "sortName": "Sort",
+      "sortOptions": [
+        {
+          "name": "Relevance",
+          "value": "",
+          "queryId": "uSortBy",
+          "isDefault": "true",
+          "appliedText": ""
+        },
+        {
+          "name": "Price(Low to High)",
+          "value": "st_price_Sp%20asc",
+          "queryId": "uSortBy",
+          "isDefault": "false",
+          "appliedText": "By Price"
+        },
+        {
+          "name": "Price(High to Low)",
+          "value": "st_price_Sp%20desc",
+          "queryId": "uSortBy",
+          "isDefault": "false",
+          "appliedText": "By Price"
+        },
+        {
+          "name": "Discount % (High to Low)",
+          "value": "st_discount%20desc",
+          "queryId": "uSortBy",
+          "isDefault": "false",
+          "appliedText": "By Discount"
+        }
+      ]
+    }
+  },
+  "dynamicListingContent": [],
+  "source": "1"
+}

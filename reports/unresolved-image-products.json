@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dmart-00518",
+    "name": "Lapsi Rava Small Daliya",
+    "brand": "",
+    "quantity": "500 gm",
+    "productImageKey": "SEP110000830xx13SEP23"
+  },
+  {
+    "id": "dmart-01083",
+    "name": "Colombian Brew Double Chocolate Mocha Coffee Premix",
+    "brand": "Colombian Brew Coffee",
+    "quantity": "10 U",
+    "productImageKey": "APR130002522xx14APR25"
+  },
+  {
+    "id": "dmart-01723",
+    "name": "Switz Samosa Dough Sheet",
+    "brand": "Switz",
+    "quantity": "500 gm",
+    "productImageKey": "MAR120002029xx30MAR22"
+  },
+  {
+    "id": "dmart-04976",
+    "name": "Pot Planter Saucer Base Plate - 10 cm",
+    "brand": "",
+    "quantity": "1 Unit",
+    "productImageKey": "DEC150011214xx24DEC25vvG1u"
+  }
+]

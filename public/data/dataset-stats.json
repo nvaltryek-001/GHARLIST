@@ -1,0 +1,11 @@
+{
+    "project":  "GHARLIST",
+    "dataset":  "DMart",
+    "source":  "bharath3848/Dmart-dataset",
+    "productCount":  5188,
+    "categoryCount":  29,
+    "brandCount":  805,
+    "imageStatus":  "pending",
+    "imageEngine":  "SCRIPT 03",
+    "generatedAt":  "2026-09-14T08:08:43.1828124+05:30"
+}

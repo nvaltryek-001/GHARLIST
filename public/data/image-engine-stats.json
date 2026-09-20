@@ -1,0 +1,36 @@
+{
+    "project":  "GHARLIST",
+    "dataset":  {
+                    "source":  "DMart Dataset",
+                    "products":  5188
+                },
+    "images":  {
+                   "productsWithImage":  5188,
+                   "productsWithoutImage":  0,
+                   "uniqueImageUrls":  5188,
+                   "source":  "DMart CDN"
+               },
+    "frontendPolicy":  {
+                           "fakeImages":  false,
+                           "placeholderImages":  false,
+                           "randomImages":  false,
+                           "ecommerceOffers":  false,
+                           "login":  false,
+                           "signup":  false,
+                           "payment":  false,
+                           "checkout":  false
+                       },
+    "purpose":  [
+                    "Find products",
+                    "Add products to list",
+                    "Set quantities",
+                    "Edit list",
+                    "Remove products",
+                    "Complete list",
+                    "Generate digital report",
+                    "Share via WhatsApp",
+                    "Print list",
+                    "Email list",
+                    "Store history"
+                ]
+}

@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-09-19T12:44:36.346Z",
+  "totalProducts": 5188,
+  "beforeRescue": 3509,
+  "attempted": 1679,
+  "rescued": 786,
+  "failed": 893,
+  "finalLive": 4295
+}

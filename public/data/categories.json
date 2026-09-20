@@ -1,0 +1,147 @@
+[
+    {
+        "id":  "appliances",
+        "name":  "Appliances",
+        "productCount":  53
+    },
+    {
+        "id":  "baby-kids",
+        "name":  "Baby \u0026 Kids",
+        "productCount":  4
+    },
+    {
+        "id":  "backpacks",
+        "name":  "Backpacks",
+        "productCount":  13
+    },
+    {
+        "id":  "beauty-cosmetics",
+        "name":  "Beauty \u0026 Cosmetics",
+        "productCount":  46
+    },
+    {
+        "id":  "butterfly",
+        "name":  "Butterfly",
+        "productCount":  2
+    },
+    {
+        "id":  "clothing-accessories",
+        "name":  "Clothing \u0026 Accessories",
+        "productCount":  97
+    },
+    {
+        "id":  "computer-accessories",
+        "name":  "Computer Accessories",
+        "productCount":  2
+    },
+    {
+        "id":  "dairy-beverages",
+        "name":  "Dairy \u0026 Beverages",
+        "productCount":  429
+    },
+    {
+        "id":  "dmart-grocery",
+        "name":  "DMart Grocery",
+        "productCount":  31
+    },
+    {
+        "id":  "fruits-vegetables",
+        "name":  "Fruits \u0026 Vegetables",
+        "productCount":  78
+    },
+    {
+        "id":  "geep",
+        "name":  "Geep",
+        "productCount":  3
+    },
+    {
+        "id":  "grocery",
+        "name":  "Grocery",
+        "productCount":  840
+    },
+    {
+        "id":  "home-kitchen",
+        "name":  "Home \u0026 Kitchen",
+        "productCount":  879
+    },
+    {
+        "id":  "joyo-plastics",
+        "name":  "Joyo Plastics",
+        "productCount":  2
+    },
+    {
+        "id":  "kitchen-aprons",
+        "name":  "Kitchen Aprons",
+        "productCount":  3
+    },
+    {
+        "id":  "motorbike-helmets",
+        "name":  "Motorbike Helmets",
+        "productCount":  4
+    },
+    {
+        "id":  "packaged-food",
+        "name":  "Packaged Food",
+        "productCount":  1125
+    },
+    {
+        "id":  "personal-care",
+        "name":  "Personal Care",
+        "productCount":  1234
+    },
+    {
+        "id":  "pigeon",
+        "name":  "Pigeon",
+        "productCount":  1
+    },
+    {
+        "id":  "plant-container",
+        "name":  "Plant Container",
+        "productCount":  23
+    },
+    {
+        "id":  "raincoat",
+        "name":  "Raincoat",
+        "productCount":  33
+    },
+    {
+        "id":  "school-supplies",
+        "name":  "School Supplies",
+        "productCount":  69
+    },
+    {
+        "id":  "smartwatches",
+        "name":  "Smartwatches",
+        "productCount":  1
+    },
+    {
+        "id":  "specials",
+        "name":  "Specials",
+        "productCount":  187
+    },
+    {
+        "id":  "syska",
+        "name":  "Syska",
+        "productCount":  1
+    },
+    {
+        "id":  "tableware",
+        "name":  "Tableware",
+        "productCount":  18
+    },
+    {
+        "id":  "water-purifiers-accessories",
+        "name":  "Water Purifiers \u0026 Accessories",
+        "productCount":  1
+    },
+    {
+        "id":  "wonderchef",
+        "name":  "Wonderchef",
+        "productCount":  1
+    },
+    {
+        "id":  "zebronics",
+        "name":  "Zebronics",
+        "productCount":  5
+    }
+]
