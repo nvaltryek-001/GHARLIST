@@ -25,6 +25,13 @@
 
 ---
 
+## 🎬 Demo
+
+<p align="center">
+  <img src="docs/demo/gharlist-demo.gif" width="800" alt="GHARLIST walkthrough: home, product search, voice input, list, report, share and history" />
+  <br/><sub>Built from real app screenshots · <a href="docs/demo/gharlist-demo.mp4">MP4 version</a></sub>
+</p>
+
 ## 🌐 Live Demo
 
 | Resource | Link |
@@ -612,37 +619,21 @@ GHARLIST was checked with browser-based UI/UX and end-to-end QA runs during deve
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with real screenshots. Save images inside the repository and update the paths (for example under `docs/screenshots/` or `reports/browser-uiux/`).
+All captured from the running app in Chromium at four viewport sizes (desktop, laptop, tablet, mobile).
 
-<!--
-  HOW TO ADD A SCREENSHOT
-  1. Copy the image into your repo (example: reports/browser-uiux/desktop-products.png)
-  2. Replace the placeholder row below with:
-     <img src="reports/browser-uiux/desktop-products.png" alt="Products" width="100%"/>
-  Only use paths that actually exist in the repository.
--->
+| Home | Product search |
+|---|---|
+| ![Home](reports/browser-uiux/desktop-.png) | ![Product search](docs/screenshots/products.png) |
+| **Voice input** | **My List** |
+| ![Voice input](reports/browser-uiux/desktop-voice.png) | ![My List](reports/browser-uiux/desktop-my-list.png) |
+| **Shopping report** | **History** |
+| ![Shopping report](reports/browser-uiux/populated-report/desktop-populated-report.png) | ![History](reports/browser-uiux/desktop-history.png) |
 
-| 🏠 Home | 🛍️ Products |
-|:---:|:---:|
-| `Screenshot placeholder` | `Screenshot placeholder` |
-| *Add: path to Home screenshot* | *Add: e.g. `reports/browser-uiux/desktop-products.png`* |
+### Responsive on every screen
 
-| 🎤 Voice | 📝 My List |
-|:---:|:---:|
-| `Screenshot placeholder` | `Screenshot placeholder` |
-| *Add: path to Voice screenshot* | *Add: path to My List screenshot* |
-
-| 🧾 Report | 🕘 History |
-|:---:|:---:|
-| `Screenshot placeholder` | `Screenshot placeholder` |
-| *Add: path to Report screenshot* | *Add: path to History screenshot* |
-
-| 📱 Mobile View |
-|:---:|
-| `Screenshot placeholder` |
-| *Add: path to mobile screenshot* |
-
----
+| Mobile | Tablet | Laptop |
+|:-:|:-:|:-:|
+| <img src="reports/browser-uiux/populated-report/mobile-populated-report.png" width="200" alt="Report on mobile" /> | <img src="reports/browser-uiux/populated-report/tablet-populated-report.png" width="300" alt="Report on tablet" /> | <img src="reports/browser-uiux/populated-report/laptop-populated-report.png" width="360" alt="Report on laptop" /> |
 
 ## 📌 Project Highlights
 
